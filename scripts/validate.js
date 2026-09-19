@@ -7,6 +7,11 @@
  *   - Relational integrity (every model.makeId references a real make)
  *   - Count agreement with the source manifest
  *
+ * Also validates the generated dist/ category bundles when present:
+ *   - Correct metadata envelope (schemaVersion, dataVersion, source, makes/models)
+ *   - Record counts match normalized data
+ *   - Sorted by id (determinism check)
+ *
  * Exits non-zero if any check fails.
  */
 "use strict";
@@ -17,6 +22,7 @@ const path = require("path");
 const ROOT      = path.resolve(__dirname, "..");
 const SRC_META  = path.join(ROOT, "data", "sources", "vehiclesdb", "manifest.json");
 const NORM_ROOT = path.join(ROOT, "data", "normalized");
+const DIST_DIR  = path.join(ROOT, "dist");
 
 const KIND_MAP = {
   car:        "cars",
@@ -194,7 +200,6 @@ function run() {
 
   console.log(`\n   Total          : ${totalMakes} makes / ${totalModels} models`);
 
-  // ─── Spot checks ────────────────────────────────────────────────────────────
   console.log("\n🔎 Spot checks:");
 
   const carChecks = [
@@ -231,6 +236,78 @@ function run() {
     console.log("   All key manufacturers found ✓");
   } else {
     spotWarnings.forEach(w => console.log(w));
+  }
+
+  // ─── Validate dist/ category bundles (when present) ─────────────────────────
+  const distBundlesExist = Object.values(KIND_MAP).every(dir =>
+    fs.existsSync(path.join(DIST_DIR, dir, "makes.json")) &&
+    fs.existsSync(path.join(DIST_DIR, dir, "models.json"))
+  );
+
+  if (distBundlesExist) {
+    console.log("\n📦 Validating dist/ category bundles:");
+
+    for (const [kind, dir] of Object.entries(KIND_MAP)) {
+      const makesFile  = path.join(DIST_DIR, dir, "makes.json");
+      const modelsFile = path.join(DIST_DIR, dir, "models.json");
+
+      let makesBun, modelsBun;
+      try {
+        makesBun  = JSON.parse(fs.readFileSync(makesFile, "utf8"));
+        modelsBun = JSON.parse(fs.readFileSync(modelsFile, "utf8"));
+      } catch (e) {
+        error(`dist/${dir}: JSON parse error — ${e.message}`);
+        continue;
+      }
+
+      // Metadata envelope checks — makes bundle
+      if (makesBun.schemaVersion === undefined) error(`dist/${dir}/makes.json: missing 'schemaVersion'`);
+      if (!makesBun.dataVersion)               error(`dist/${dir}/makes.json: missing 'dataVersion'`);
+      if (!makesBun.source)                    error(`dist/${dir}/makes.json: missing 'source'`);
+      if (!makesBun.source?.license)           error(`dist/${dir}/makes.json: missing 'source.license'`);
+      if (!Array.isArray(makesBun.makes))      error(`dist/${dir}/makes.json: 'makes' must be an array`);
+
+      // Metadata envelope checks — models bundle
+      if (modelsBun.schemaVersion === undefined) error(`dist/${dir}/models.json: missing 'schemaVersion'`);
+      if (!modelsBun.dataVersion)                error(`dist/${dir}/models.json: missing 'dataVersion'`);
+      if (!modelsBun.source)                     error(`dist/${dir}/models.json: missing 'source'`);
+      if (!Array.isArray(modelsBun.models))      error(`dist/${dir}/models.json: 'models' must be an array`);
+
+      // Count agreement with normalized data
+      const normMakes  = readJSON(path.join(NORM_ROOT, dir, "makes.json"));
+      const normModels = readJSON(path.join(NORM_ROOT, dir, "models.json"));
+
+      if (Array.isArray(makesBun.makes) && makesBun.makes.length !== normMakes.length)
+        error(`dist/${dir}/makes.json: ${makesBun.makes.length} records but normalized has ${normMakes.length}`);
+      if (Array.isArray(modelsBun.models) && modelsBun.models.length !== normModels.length)
+        error(`dist/${dir}/models.json: ${modelsBun.models.length} records but normalized has ${normModels.length}`);
+
+      // Determinism: verify sorted by id
+      if (Array.isArray(makesBun.makes) && makesBun.makes.length > 1) {
+        for (let i = 1; i < makesBun.makes.length; i++) {
+          if (makesBun.makes[i].id.localeCompare(makesBun.makes[i - 1].id, "en", { sensitivity: "base" }) < 0) {
+            error(`dist/${dir}/makes.json: not sorted by id at index ${i}`);
+            break;
+          }
+        }
+      }
+      if (Array.isArray(modelsBun.models) && modelsBun.models.length > 1) {
+        for (let i = 1; i < modelsBun.models.length; i++) {
+          if (modelsBun.models[i].id.localeCompare(modelsBun.models[i - 1].id, "en", { sensitivity: "base" }) < 0) {
+            error(`dist/${dir}/models.json: not sorted by id at index ${i}`);
+            break;
+          }
+        }
+      }
+
+      const makesKb  = (fs.statSync(makesFile).size  / 1024).toFixed(1);
+      const modelsKb = (fs.statSync(modelsFile).size / 1024).toFixed(1);
+      const mOk = !errors.some(e => e.includes(`dist/${dir}/makes`))  ? "✓" : "✗";
+      const dOk = !errors.some(e => e.includes(`dist/${dir}/models`)) ? "✓" : "✗";
+      console.log(`   ${dir.padEnd(14)} ${mOk} makes  ${String(makesKb).padStart(7)} KB   ${dOk} models ${String(modelsKb).padStart(8)} KB`);
+    }
+  } else {
+    console.log("\n   dist/ category bundles not yet built — run 'npm run build' to generate them.");
   }
 
   // ─── Report ─────────────────────────────────────────────────────────────────

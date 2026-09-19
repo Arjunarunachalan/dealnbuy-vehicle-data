@@ -294,3 +294,74 @@ This repository's data is **derived from VehiclesDB** — it is not independentl
 - `schemaVersion` — incremented when the normalized/dist schema shape changes (breaking)
 - `dataVersion` — mirrors VehiclesDB release version (`YYYY.MM.revision`)
 - `updatedAt` — the VehiclesDB dataset build timestamp (deterministic, not local build time)
+
+---
+
+## Category-specific bundles
+
+Applications that only need one vehicle kind should prefer the **category-specific
+bundles** over the full ~6 MB `dist/vehicle-data.json`.
+
+```
+dist/
+├── vehicle-data.json          ~5.9 MB  (all kinds combined)
+├── cars/
+│   ├── makes.json             ~  50 KB
+│   └── models.json            ~1.9 MB
+├── motorcycles/
+│   ├── makes.json             ~  36 KB
+│   └── models.json            ~1.8 MB
+├── mopeds/
+│   ├── makes.json             ~  39 KB
+│   └── models.json            ~  365 KB
+├── vans/
+│   ├── makes.json             ~  13 KB
+│   └── models.json            ~  108 KB
+├── trucks/
+│   ├── makes.json             ~  12 KB
+│   └── models.json            ~  245 KB
+└── buses/
+    ├── makes.json             ~  18 KB
+    └── models.json            ~  198 KB
+```
+
+Each category file has the same metadata envelope as the combined bundle:
+
+```json
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.09.1",
+  "source": {
+    "name": "VehiclesDB",
+    "version": "2026.09.1",
+    "license": "CC-BY-4.0"
+  },
+  "makes": [ ... ],
+  "models": [ ... ]
+}
+```
+
+### Next.js — category-specific import
+
+```js
+// Load only what you need — motorcycles bundle is ~1.8 MB vs ~6 MB combined
+import motoMakes  from '@/public/data/motorcycles/makes.json';
+import motoModels from '@/public/data/motorcycles/models.json';
+
+export function getModelsForMake(makeId) {
+  return motoModels.models.filter(m => m.makeId === makeId);
+}
+```
+
+### Expo / React Native — category-specific require
+
+```js
+// Only load the category the form needs
+const carMakes  = require('./assets/data/cars/makes.json');
+const carModels = require('./assets/data/cars/models.json');
+```
+
+> **Tip**: If your application shows vehicle dropdowns for multiple kinds,
+> lazy-load each category bundle on demand rather than including the full
+> combined bundle in your initial JS bundle.
+

@@ -1,0 +1,3810 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.09.1",
+  "updatedAt": "2026-09-12T13:58:20Z",
+  "source": {
+    "name": "VehiclesDB",
+    "version": "2026.09.1",
+    "license": "CC-BY-4.0"
+  },
+  "makes": [
+    {
+      "id": "a-m-c",
+      "slug": "a-m-c",
+      "name": "A.m.c.",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "abarth",
+      "slug": "abarth",
+      "name": "Abarth",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "acura",
+      "slug": "acura",
+      "name": "Acura",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "adler",
+      "slug": "adler",
+      "name": "Adler",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "ahorn",
+      "slug": "ahorn",
+      "name": "Ahorn",
+      "countries": [
+        "es",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "aion",
+      "slug": "aion",
+      "name": "Aion",
+      "countries": [
+        "es",
+        "fi",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "aiways",
+      "slug": "aiways",
+      "name": "Aiways",
+      "countries": [
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "aixam",
+      "slug": "aixam",
+      "name": "Aixam",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "alfa-romeo",
+      "slug": "alfa-romeo",
+      "name": "Alfa Romeo",
+      "aliases": [
+        "Alfa"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "alpina",
+      "slug": "alpina",
+      "name": "Alpina",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "alpine",
+      "slug": "alpine",
+      "name": "Alpine",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "alvis",
+      "slug": "alvis",
+      "name": "Alvis",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "am-general",
+      "slug": "am-general",
+      "name": "Am General",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "amc",
+      "slug": "amc",
+      "name": "AMC",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "american",
+      "slug": "american",
+      "name": "American",
+      "countries": [
+        "fi",
+        "nz"
+      ]
+    },
+    {
+      "id": "amphicar",
+      "slug": "amphicar",
+      "name": "Amphicar",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "arcfox",
+      "slug": "arcfox",
+      "name": "Arcfox",
+      "countries": [
+        "ar",
+        "nz"
+      ]
+    },
+    {
+      "id": "ariel",
+      "slug": "ariel",
+      "name": "Ariel",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "armstrong-siddeley",
+      "slug": "armstrong-siddeley",
+      "name": "Armstrong Siddeley",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "asia",
+      "slug": "asia",
+      "name": "Asia",
+      "countries": [
+        "fi",
+        "gb"
+      ]
+    },
+    {
+      "id": "aston-martin",
+      "slug": "aston-martin",
+      "name": "Aston Martin",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "auburn",
+      "slug": "auburn",
+      "name": "Auburn",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "audi",
+      "slug": "audi",
+      "name": "Audi",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "audi-porsche",
+      "slug": "audi-porsche",
+      "name": "Audi-Porsche",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "austin",
+      "slug": "austin",
+      "name": "Austin",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "austin-healey",
+      "slug": "austin-healey",
+      "name": "Austin-Healey",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "austin-morris",
+      "slug": "austin-morris",
+      "name": "Austin-Morris",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "auto-union",
+      "slug": "auto-union",
+      "name": "Auto-Union",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "baic",
+      "slug": "baic",
+      "name": "BAIC",
+      "countries": [
+        "ar",
+        "es",
+        "lu",
+        "my",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "barkas",
+      "slug": "barkas",
+      "name": "Barkas",
+      "countries": [
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "beauford",
+      "slug": "beauford",
+      "name": "Beauford",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "bedford",
+      "slug": "bedford",
+      "name": "Bedford",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "bentley",
+      "slug": "bentley",
+      "name": "Bentley",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "berkeley",
+      "slug": "berkeley",
+      "name": "Berkeley",
+      "countries": [
+        "fi",
+        "nz"
+      ]
+    },
+    {
+      "id": "bertone",
+      "slug": "bertone",
+      "name": "Bertone",
+      "countries": [
+        "fi",
+        "nl",
+        "nz",
+        "us"
+      ]
+    },
+    {
+      "id": "binz",
+      "slug": "binz",
+      "name": "Binz",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "blucamp",
+      "slug": "blucamp",
+      "name": "Blucamp",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "bmw",
+      "slug": "bmw",
+      "name": "BMW",
+      "aliases": [
+        "Beemer",
+        "Bimmer"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "bmw-alpina",
+      "slug": "bmw-alpina",
+      "name": "Bmw Alpina",
+      "countries": [
+        "fi",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "bond",
+      "slug": "bond",
+      "name": "Bond",
+      "countries": [
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "borgward",
+      "slug": "borgward",
+      "name": "Borgward",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "bravia",
+      "slug": "bravia",
+      "name": "Bravia",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "bricklin",
+      "slug": "bricklin",
+      "name": "Bricklin",
+      "countries": [
+        "fi",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "bristol",
+      "slug": "bristol",
+      "name": "Bristol",
+      "countries": [
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "bugatti",
+      "slug": "bugatti",
+      "name": "Bugatti",
+      "countries": [
+        "ca",
+        "nl",
+        "nz",
+        "us"
+      ]
+    },
+    {
+      "id": "buick",
+      "slug": "buick",
+      "name": "Buick",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "burstner-gmbh",
+      "slug": "burstner-gmbh",
+      "name": "Bürstner Gmbh",
+      "countries": [
+        "es",
+        "lu"
+      ]
+    },
+    {
+      "id": "byd",
+      "slug": "byd",
+      "name": "BYD",
+      "aliases": [
+        "比亚迪"
+      ],
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "cadillac",
+      "slug": "cadillac",
+      "name": "Cadillac",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "campereve",
+      "slug": "campereve",
+      "name": "Campereve",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "carbodies",
+      "slug": "carbodies",
+      "name": "Carbodies",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "caterham",
+      "slug": "caterham",
+      "name": "Caterham",
+      "countries": [
+        "es",
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "caterham-cars-ltd",
+      "slug": "caterham-cars-ltd",
+      "name": "Caterham Cars Ltd",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "chamonix",
+      "slug": "chamonix",
+      "name": "Chamonix",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "changan",
+      "slug": "changan",
+      "name": "Changan",
+      "countries": [
+        "gb",
+        "nl",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "checker",
+      "slug": "checker",
+      "name": "Checker",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "chery",
+      "slug": "chery",
+      "name": "Chery",
+      "aliases": [
+        "奇瑞"
+      ],
+      "countries": [
+        "ar",
+        "de",
+        "gb",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "chevrolet",
+      "slug": "chevrolet",
+      "name": "Chevrolet",
+      "aliases": [
+        "Chevy"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "chevrolet-gmc",
+      "slug": "chevrolet-gmc",
+      "name": "Chevrolet GMC",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "chrysler",
+      "slug": "chrysler",
+      "name": "Chrysler",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "citroen",
+      "slug": "citroen",
+      "name": "Citroën",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "commer",
+      "slug": "commer",
+      "name": "Commer",
+      "countries": [
+        "fi",
+        "nz"
+      ]
+    },
+    {
+      "id": "continental",
+      "slug": "continental",
+      "name": "Continental",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "cupra",
+      "slug": "cupra",
+      "name": "Cupra",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "dacia",
+      "slug": "dacia",
+      "name": "Dacia",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "daewoo",
+      "slug": "daewoo",
+      "name": "Daewoo",
+      "countries": [
+        "ca",
+        "fi",
+        "gb",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "daihatsu",
+      "slug": "daihatsu",
+      "name": "Daihatsu",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "daimler",
+      "slug": "daimler",
+      "name": "Daimler",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "daimler-benz",
+      "slug": "daimler-benz",
+      "name": "Daimler Benz",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "daimlerchrysler",
+      "slug": "daimlerchrysler",
+      "name": "Daimlerchrysler",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "datsun",
+      "slug": "datsun",
+      "name": "Datsun",
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "de-lorean",
+      "slug": "de-lorean",
+      "name": "De Lorean",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "de-soto",
+      "slug": "de-soto",
+      "name": "De Soto",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "de-tomaso",
+      "slug": "de-tomaso",
+      "name": "De Tomaso",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "deepal",
+      "slug": "deepal",
+      "name": "Deepal",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "nl",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "delage",
+      "slug": "delage",
+      "name": "Delage",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "denza",
+      "slug": "denza",
+      "name": "Denza",
+      "countries": [
+        "es",
+        "my",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "dfsk",
+      "slug": "dfsk",
+      "name": "DFSK",
+      "countries": [
+        "ar",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "dodge",
+      "slug": "dodge",
+      "name": "Dodge",
+      "countries": [
+        "ar",
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "dodge-brothers",
+      "slug": "dodge-brothers",
+      "name": "Dodge Brothers",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "dongfeng",
+      "slug": "dongfeng",
+      "name": "Dongfeng",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "donkervoort",
+      "slug": "donkervoort",
+      "name": "Donkervoort",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ds",
+      "slug": "ds",
+      "name": "DS",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "e-go",
+      "slug": "e-go",
+      "name": "E.go",
+      "countries": [
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "eagle",
+      "slug": "eagle",
+      "name": "Eagle",
+      "countries": [
+        "ca",
+        "gb",
+        "lu",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "ebro",
+      "slug": "ebro",
+      "name": "EBRO",
+      "countries": [
+        "es"
+      ]
+    },
+    {
+      "id": "edsel",
+      "slug": "edsel",
+      "name": "Edsel",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "eriba",
+      "slug": "eriba",
+      "name": "Eriba",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "essex",
+      "slug": "essex",
+      "name": "Essex",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "eunos",
+      "slug": "eunos",
+      "name": "Eunos",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "excalibur",
+      "slug": "excalibur",
+      "name": "Excalibur",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "faw",
+      "slug": "faw",
+      "name": "FAW",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ferrari",
+      "slug": "ferrari",
+      "name": "Ferrari",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "fiat",
+      "slug": "fiat",
+      "name": "Fiat",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "fiat-burstner",
+      "slug": "fiat-burstner",
+      "name": "Fiat Burstner",
+      "countries": [
+        "es",
+        "fi"
+      ]
+    },
+    {
+      "id": "fiat-chausson",
+      "slug": "fiat-chausson",
+      "name": "Fiat-Chausson",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "fiat-dethleffs",
+      "slug": "fiat-dethleffs",
+      "name": "Fiat-Dethleffs",
+      "countries": [
+        "fi",
+        "lu"
+      ]
+    },
+    {
+      "id": "fisker",
+      "slug": "fisker",
+      "name": "Fisker",
+      "countries": [
+        "ca",
+        "de",
+        "fi",
+        "gb",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "fleetwood",
+      "slug": "fleetwood",
+      "name": "Fleetwood",
+      "countries": [
+        "nl"
+      ]
+    },
+    {
+      "id": "font-vendome",
+      "slug": "font-vendome",
+      "name": "Font Vendome",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "ford",
+      "slug": "ford",
+      "name": "Ford",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "ford-challenger",
+      "slug": "ford-challenger",
+      "name": "Ford/Challenger",
+      "countries": [
+        "es",
+        "fi"
+      ]
+    },
+    {
+      "id": "ford-hymer",
+      "slug": "ford-hymer",
+      "name": "Ford-Hymer",
+      "countries": [
+        "fi",
+        "lu"
+      ]
+    },
+    {
+      "id": "forthing",
+      "slug": "forthing",
+      "name": "Forthing",
+      "countries": [
+        "ar",
+        "lu"
+      ]
+    },
+    {
+      "id": "fsm",
+      "slug": "fsm",
+      "name": "Fsm",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "fso",
+      "slug": "fso",
+      "name": "FSO",
+      "countries": [
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "gac",
+      "slug": "gac",
+      "name": "GAC",
+      "countries": [
+        "es",
+        "fi",
+        "my",
+        "nz",
+        "th"
+      ]
+    },
+    {
+      "id": "gaz",
+      "slug": "gaz",
+      "name": "GAZ",
+      "aliases": [
+        "ГАЗ"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "geely",
+      "slug": "geely",
+      "name": "Geely",
+      "aliases": [
+        "吉利"
+      ],
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "lu",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "genesis",
+      "slug": "genesis",
+      "name": "Genesis",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "gb",
+        "my",
+        "nl",
+        "nz",
+        "us"
+      ]
+    },
+    {
+      "id": "geo",
+      "slug": "geo",
+      "name": "Geo",
+      "countries": [
+        "ca",
+        "nl",
+        "us"
+      ]
+    },
+    {
+      "id": "ginetta",
+      "slug": "ginetta",
+      "name": "Ginetta",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "gm-daewoo",
+      "slug": "gm-daewoo",
+      "name": "Gm Daewoo",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "gmc",
+      "slug": "gmc",
+      "name": "GMC",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "goggomobil",
+      "slug": "goggomobil",
+      "name": "Goggomobil",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "goliath",
+      "slug": "goliath",
+      "name": "Goliath",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "graham",
+      "slug": "graham",
+      "name": "Graham",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "great-wall",
+      "slug": "great-wall",
+      "name": "Great Wall",
+      "aliases": [
+        "长城"
+      ],
+      "countries": [
+        "ar",
+        "de",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "haval",
+      "slug": "haval",
+      "name": "Haval",
+      "countries": [
+        "ar",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "hillman",
+      "slug": "hillman",
+      "name": "Hillman",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "holden",
+      "slug": "holden",
+      "name": "Holden",
+      "countries": [
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "honda",
+      "slug": "honda",
+      "name": "Honda",
+      "aliases": [
+        "ホンダ"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "hongqi",
+      "slug": "hongqi",
+      "name": "Hongqi",
+      "aliases": [
+        "红旗"
+      ],
+      "countries": [
+        "fi",
+        "ua"
+      ]
+    },
+    {
+      "id": "hotchkiss",
+      "slug": "hotchkiss",
+      "name": "Hotchkiss",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "hudson",
+      "slug": "hudson",
+      "name": "Hudson",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "humber",
+      "slug": "humber",
+      "name": "Humber",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "hummer",
+      "slug": "hummer",
+      "name": "Hummer",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "hupmobile",
+      "slug": "hupmobile",
+      "name": "Hupmobile",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "hyundai",
+      "slug": "hyundai",
+      "name": "Hyundai",
+      "aliases": [
+        "현대"
+      ],
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "imperial",
+      "slug": "imperial",
+      "name": "Imperial",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "ineos",
+      "slug": "ineos",
+      "name": "INEOS",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "infiniti",
+      "slug": "infiniti",
+      "name": "Infiniti",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "innocenti",
+      "slug": "innocenti",
+      "name": "Innocenti",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "international",
+      "slug": "international",
+      "name": "International",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "iso",
+      "slug": "iso",
+      "name": "Iso",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "iso-rivolta",
+      "slug": "iso-rivolta",
+      "name": "Iso Rivolta",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "isuzu",
+      "slug": "isuzu",
+      "name": "Isuzu",
+      "countries": [
+        "ca",
+        "fi",
+        "gb",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "iveco-concorde",
+      "slug": "iveco-concorde",
+      "name": "Iveco-Concorde",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "izh",
+      "slug": "izh",
+      "name": "IZh",
+      "aliases": [
+        "ИЖ"
+      ],
+      "countries": [
+        "ua"
+      ]
+    },
+    {
+      "id": "jac",
+      "slug": "jac",
+      "name": "JAC",
+      "countries": [
+        "ar",
+        "ua"
+      ]
+    },
+    {
+      "id": "jaecoo",
+      "slug": "jaecoo",
+      "name": "Jaecoo",
+      "countries": [
+        "de",
+        "es",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "th"
+      ]
+    },
+    {
+      "id": "jaguar",
+      "slug": "jaguar",
+      "name": "Jaguar",
+      "countries": [
+        "ar",
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "jeep",
+      "slug": "jeep",
+      "name": "Jeep",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "jeep-viasa",
+      "slug": "jeep-viasa",
+      "name": "Jeep-Viasa",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "jensen",
+      "slug": "jensen",
+      "name": "Jensen",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "jetour",
+      "slug": "jetour",
+      "name": "Jetour",
+      "countries": [
+        "ar",
+        "my",
+        "ua"
+      ]
+    },
+    {
+      "id": "julia-camper",
+      "slug": "julia-camper",
+      "name": "Julia Camper",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "kaiser",
+      "slug": "kaiser",
+      "name": "Kaiser",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "karma",
+      "slug": "karma",
+      "name": "Karma",
+      "countries": [
+        "ca",
+        "fi",
+        "nl",
+        "us"
+      ]
+    },
+    {
+      "id": "kgm",
+      "slug": "kgm",
+      "name": "KGM",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "kia",
+      "slug": "kia",
+      "name": "Kia",
+      "aliases": [
+        "기아"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "kia-motors",
+      "slug": "kia-motors",
+      "name": "Kia Motors",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "krismar",
+      "slug": "krismar",
+      "name": "Krismar",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ktm",
+      "slug": "ktm",
+      "name": "KTM",
+      "countries": [
+        "fi",
+        "my",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "lada",
+      "slug": "lada",
+      "name": "Lada",
+      "aliases": [
+        "ВАЗ",
+        "Лада",
+        "Жигули"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "lagonda",
+      "slug": "lagonda",
+      "name": "Lagonda",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "lamborghini",
+      "slug": "lamborghini",
+      "name": "Lamborghini",
+      "aliases": [
+        "Lambo"
+      ],
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "lanchester",
+      "slug": "lanchester",
+      "name": "Lanchester",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "lancia",
+      "slug": "lancia",
+      "name": "Lancia",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "land-rover",
+      "slug": "land-rover",
+      "name": "Land Rover",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "landwind",
+      "slug": "landwind",
+      "name": "Landwind",
+      "countries": [
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "ldv",
+      "slug": "ldv",
+      "name": "LDV",
+      "countries": [
+        "gb",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "le-voyageur",
+      "slug": "le-voyageur",
+      "name": "Le Voyageur",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "leapmotor",
+      "slug": "leapmotor",
+      "name": "Leapmotor",
+      "aliases": [
+        "零跑"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "levc",
+      "slug": "levc",
+      "name": "LEVC",
+      "countries": [
+        "gb",
+        "my",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "lexus",
+      "slug": "lexus",
+      "name": "Lexus",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "leyland",
+      "slug": "leyland",
+      "name": "Leyland",
+      "countries": [
+        "fi",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "leyland-cars",
+      "slug": "leyland-cars",
+      "name": "Leyland Cars",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "lincoln",
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "livan",
+      "slug": "livan",
+      "name": "Livan",
+      "countries": [
+        "es",
+        "lu"
+      ]
+    },
+    {
+      "id": "lixiang",
+      "slug": "lixiang",
+      "name": "Lixiang",
+      "countries": [
+        "es",
+        "ua"
+      ]
+    },
+    {
+      "id": "lloyd",
+      "slug": "lloyd",
+      "name": "Lloyd",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "lotus",
+      "slug": "lotus",
+      "name": "Lotus",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "luaz",
+      "slug": "luaz",
+      "name": "Luaz",
+      "countries": [
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "lucid",
+      "slug": "lucid",
+      "name": "Lucid",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "lynk-co",
+      "slug": "lynk-co",
+      "name": "Lynk & Co",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "mahindra",
+      "slug": "mahindra",
+      "name": "Mahindra",
+      "countries": [
+        "nz"
+      ]
+    },
+    {
+      "id": "marlin",
+      "slug": "marlin",
+      "name": "Marlin",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "maserati",
+      "slug": "maserati",
+      "name": "Maserati",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "maxus",
+      "slug": "maxus",
+      "name": "Maxus",
+      "countries": [
+        "fi",
+        "my",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "maybach",
+      "slug": "maybach",
+      "name": "Maybach",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "mazda",
+      "slug": "mazda",
+      "name": "Mazda",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "mcc",
+      "slug": "mcc",
+      "name": "Mcc",
+      "countries": [
+        "fi",
+        "gb",
+        "nz"
+      ]
+    },
+    {
+      "id": "mclaren",
+      "slug": "mclaren",
+      "name": "McLaren",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "mercedes-benz",
+      "slug": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "aliases": [
+        "Merc",
+        "Benz",
+        "MB"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "mercury",
+      "slug": "mercury",
+      "name": "Mercury",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "merkur",
+      "slug": "merkur",
+      "name": "Merkur",
+      "countries": [
+        "nl",
+        "us"
+      ]
+    },
+    {
+      "id": "mg",
+      "slug": "mg",
+      "name": "MG",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "micro-compact-car",
+      "slug": "micro-compact-car",
+      "name": "Micro Compact Car",
+      "countries": [
+        "es",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "mini",
+      "slug": "mini",
+      "name": "Mini",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "mitsubishi",
+      "slug": "mitsubishi",
+      "name": "Mitsubishi",
+      "aliases": [
+        "三菱"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "mitsubishi-fuso",
+      "slug": "mitsubishi-fuso",
+      "name": "Mitsubishi Fuso",
+      "aliases": [
+        "Fuso"
+      ],
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "mitsuoka",
+      "slug": "mitsuoka",
+      "name": "Mitsuoka",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "morgan",
+      "slug": "morgan",
+      "name": "Morgan",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "us"
+      ]
+    },
+    {
+      "id": "morris",
+      "slug": "morris",
+      "name": "Morris",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "moskvich",
+      "slug": "moskvich",
+      "name": "Moskvich",
+      "countries": [
+        "gb",
+        "ua"
+      ]
+    },
+    {
+      "id": "nash",
+      "slug": "nash",
+      "name": "Nash",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "neta",
+      "slug": "neta",
+      "name": "Neta",
+      "countries": [
+        "my",
+        "th"
+      ]
+    },
+    {
+      "id": "nilsson",
+      "slug": "nilsson",
+      "name": "Nilsson",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "nio",
+      "slug": "nio",
+      "name": "Nio",
+      "aliases": [
+        "蔚来"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "lu",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "nissan",
+      "slug": "nissan",
+      "name": "Nissan",
+      "aliases": [
+        "日産"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "nobel-art",
+      "slug": "nobel-art",
+      "name": "Nobel Art",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "notin",
+      "slug": "notin",
+      "name": "Notin",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "nsu",
+      "slug": "nsu",
+      "name": "NSU",
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "oakland",
+      "slug": "oakland",
+      "name": "Oakland",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "oldsmobile",
+      "slug": "oldsmobile",
+      "name": "Oldsmobile",
+      "countries": [
+        "ca",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "omoda",
+      "slug": "omoda",
+      "name": "Omoda",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "th"
+      ]
+    },
+    {
+      "id": "opel",
+      "slug": "opel",
+      "name": "Opel",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "ora",
+      "slug": "ora",
+      "name": "Ora",
+      "countries": [
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "packard",
+      "slug": "packard",
+      "name": "Packard",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "pagani",
+      "slug": "pagani",
+      "name": "Pagani",
+      "countries": [
+        "nz",
+        "us"
+      ]
+    },
+    {
+      "id": "panama",
+      "slug": "panama",
+      "name": "Panama",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "panhard",
+      "slug": "panhard",
+      "name": "Panhard",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "panther",
+      "slug": "panther",
+      "name": "Panther",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "perodua",
+      "slug": "perodua",
+      "name": "Perodua",
+      "countries": [
+        "gb",
+        "my"
+      ]
+    },
+    {
+      "id": "peugeot",
+      "slug": "peugeot",
+      "name": "Peugeot",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "pgo",
+      "slug": "pgo",
+      "name": "PGO",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "piaggio",
+      "slug": "piaggio",
+      "name": "Piaggio",
+      "countries": [
+        "gb",
+        "nz"
+      ]
+    },
+    {
+      "id": "pininfarina",
+      "slug": "pininfarina",
+      "name": "Pininfarina",
+      "countries": [
+        "nl",
+        "us"
+      ]
+    },
+    {
+      "id": "plymouth",
+      "slug": "plymouth",
+      "name": "Plymouth",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "polaris",
+      "slug": "polaris",
+      "name": "Polaris",
+      "countries": [
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "id": "polestar",
+      "slug": "polestar",
+      "name": "Polestar",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "polski-fiat",
+      "slug": "polski-fiat",
+      "name": "Polski-Fiat",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "pontiac",
+      "slug": "pontiac",
+      "name": "Pontiac",
+      "countries": [
+        "ar",
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "porsche",
+      "slug": "porsche",
+      "name": "Porsche",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "praga",
+      "slug": "praga",
+      "name": "Praga",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "prince",
+      "slug": "prince",
+      "name": "Prince",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "princess",
+      "slug": "princess",
+      "name": "Princess",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "proton",
+      "slug": "proton",
+      "name": "Proton",
+      "countries": [
+        "gb",
+        "my",
+        "nl",
+        "nz",
+        "th"
+      ]
+    },
+    {
+      "id": "puch",
+      "slug": "puch",
+      "name": "Puch",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ram",
+      "slug": "ram",
+      "name": "Ram",
+      "countries": [
+        "ca",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "rambler",
+      "slug": "rambler",
+      "name": "Rambler",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "ravon",
+      "slug": "ravon",
+      "name": "Ravon",
+      "countries": [
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "reliant",
+      "slug": "reliant",
+      "name": "Reliant",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "renault",
+      "slug": "renault",
+      "name": "Renault",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "reo",
+      "slug": "reo",
+      "name": "Reo",
+      "countries": [
+        "es",
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "riley",
+      "slug": "riley",
+      "name": "Riley",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "rivian",
+      "slug": "rivian",
+      "name": "Rivian",
+      "countries": [
+        "ca",
+        "fi",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "rolls-royce",
+      "slug": "rolls-royce",
+      "name": "Rolls-Royce",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "rover",
+      "slug": "rover",
+      "name": "Rover",
+      "countries": [
+        "ar",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "saab",
+      "slug": "saab",
+      "name": "Saab",
+      "countries": [
+        "ca",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "sachsenring",
+      "slug": "sachsenring",
+      "name": "Sachsenring",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "saturn",
+      "slug": "saturn",
+      "name": "Saturn",
+      "countries": [
+        "ca",
+        "fi",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "scion",
+      "slug": "scion",
+      "name": "Scion",
+      "countries": [
+        "ca",
+        "fi",
+        "nl",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "seat",
+      "slug": "seat",
+      "name": "SEAT",
+      "countries": [
+        "ar",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "setra",
+      "slug": "setra",
+      "name": "Setra",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "shelby",
+      "slug": "shelby",
+      "name": "Shelby",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "shineray",
+      "slug": "shineray",
+      "name": "Shineray",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "simca",
+      "slug": "simca",
+      "name": "Simca",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "singer",
+      "slug": "singer",
+      "name": "Singer",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "skoda",
+      "slug": "skoda",
+      "name": "Škoda",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "skywell",
+      "slug": "skywell",
+      "name": "Skywell",
+      "countries": [
+        "ar",
+        "es",
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "skyworth",
+      "slug": "skyworth",
+      "name": "Skyworth",
+      "countries": [
+        "fi",
+        "nz"
+      ]
+    },
+    {
+      "id": "smart",
+      "slug": "smart",
+      "name": "Smart",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "spartan",
+      "slug": "spartan",
+      "name": "Spartan",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "spyker",
+      "slug": "spyker",
+      "name": "Spyker",
+      "countries": [
+        "nl",
+        "us"
+      ]
+    },
+    {
+      "id": "srt",
+      "slug": "srt",
+      "name": "Srt",
+      "countries": [
+        "ca",
+        "us"
+      ]
+    },
+    {
+      "id": "ssangyong",
+      "slug": "ssangyong",
+      "name": "SsangYong",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "nl",
+        "nz",
+        "th"
+      ]
+    },
+    {
+      "id": "standard",
+      "slug": "standard",
+      "name": "Standard",
+      "countries": [
+        "fi",
+        "my",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "steyr-puch",
+      "slug": "steyr-puch",
+      "name": "Steyr-Puch",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "stuart-taylor",
+      "slug": "stuart-taylor",
+      "name": "Stuart Taylor",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "studebaker",
+      "slug": "studebaker",
+      "name": "Studebaker",
+      "countries": [
+        "fi",
+        "lu",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "stutz",
+      "slug": "stutz",
+      "name": "Stutz",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "subaru",
+      "slug": "subaru",
+      "name": "Subaru",
+      "countries": [
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "sunbeam",
+      "slug": "sunbeam",
+      "name": "Sunbeam",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "superior",
+      "slug": "superior",
+      "name": "Superior",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "suzuki",
+      "slug": "suzuki",
+      "name": "Suzuki",
+      "aliases": [
+        "スズキ"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "swallow",
+      "slug": "swallow",
+      "name": "Swallow",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "swm",
+      "slug": "swm",
+      "name": "SWM",
+      "countries": [
+        "es",
+        "lu"
+      ]
+    },
+    {
+      "id": "sylva",
+      "slug": "sylva",
+      "name": "Sylva",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "talbot",
+      "slug": "talbot",
+      "name": "Talbot",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "tata",
+      "slug": "tata",
+      "name": "Tata",
+      "countries": [
+        "gb",
+        "ua"
+      ]
+    },
+    {
+      "id": "tec",
+      "slug": "tec",
+      "name": "Tec",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "tesla",
+      "slug": "tesla",
+      "name": "Tesla",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "think",
+      "slug": "think",
+      "name": "Think",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "tiger",
+      "slug": "tiger",
+      "name": "Tiger",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "togg",
+      "slug": "togg",
+      "name": "Togg",
+      "countries": [
+        "de",
+        "my",
+        "nl"
+      ]
+    },
+    {
+      "id": "toth-es-fiai",
+      "slug": "toth-es-fiai",
+      "name": "Toth Es Fiai",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "toyota",
+      "slug": "toyota",
+      "name": "Toyota",
+      "aliases": [
+        "丰田",
+        "トヨタ"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "trabant",
+      "slug": "trabant",
+      "name": "Trabant",
+      "countries": [
+        "fi",
+        "lu",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "triumph",
+      "slug": "triumph",
+      "name": "Triumph",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "tvr",
+      "slug": "tvr",
+      "name": "TVR",
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "uaz",
+      "slug": "uaz",
+      "name": "UAZ",
+      "aliases": [
+        "УАЗ"
+      ],
+      "countries": [
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "valiant",
+      "slug": "valiant",
+      "name": "Valiant",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "vanden-plas",
+      "slug": "vanden-plas",
+      "name": "Vanden Plas",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "vanster",
+      "slug": "vanster",
+      "name": "Vanster",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "vauxhall",
+      "slug": "vauxhall",
+      "name": "Vauxhall",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl",
+        "nz",
+        "ua"
+      ]
+    },
+    {
+      "id": "vinfast",
+      "slug": "vinfast",
+      "name": "Vinfast",
+      "countries": [
+        "de",
+        "es",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "volga",
+      "slug": "volga",
+      "name": "Volga",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "volkswagen",
+      "slug": "volkswagen",
+      "name": "Volkswagen",
+      "aliases": [
+        "VW",
+        "Vdub"
+      ],
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "volvo",
+      "slug": "volvo",
+      "name": "Volvo",
+      "countries": [
+        "ar",
+        "ca",
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua",
+        "us"
+      ]
+    },
+    {
+      "id": "voyah",
+      "slug": "voyah",
+      "name": "Voyah",
+      "countries": [
+        "es",
+        "fi",
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "vw-porsche",
+      "slug": "vw-porsche",
+      "name": "Vw-Porsche",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "wartburg",
+      "slug": "wartburg",
+      "name": "Wartburg",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "westfalen-mobil-gmbh",
+      "slug": "westfalen-mobil-gmbh",
+      "name": "Westfalen Mobil Gmbh",
+      "countries": [
+        "es",
+        "lu"
+      ]
+    },
+    {
+      "id": "westfalia-mobil-gmbh",
+      "slug": "westfalia-mobil-gmbh",
+      "name": "Westfalia Mobil Gmbh",
+      "countries": [
+        "es",
+        "fi"
+      ]
+    },
+    {
+      "id": "westfield",
+      "slug": "westfield",
+      "name": "Westfield",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "willys",
+      "slug": "willys",
+      "name": "Willys",
+      "countries": [
+        "fi",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "wolseley",
+      "slug": "wolseley",
+      "name": "Wolseley",
+      "countries": [
+        "gb",
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "xev",
+      "slug": "xev",
+      "name": "Xev",
+      "countries": [
+        "th"
+      ]
+    },
+    {
+      "id": "xiaomi",
+      "slug": "xiaomi",
+      "name": "Xiaomi",
+      "countries": [
+        "lu",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "xpeng",
+      "slug": "xpeng",
+      "name": "XPeng",
+      "aliases": [
+        "小鹏"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "ie",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "yucon",
+      "slug": "yucon",
+      "name": "Yucon",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "yugo",
+      "slug": "yugo",
+      "name": "Yugo",
+      "countries": [
+        "nl",
+        "nz"
+      ]
+    },
+    {
+      "id": "zastava",
+      "slug": "zastava",
+      "name": "Zastava",
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "zaz",
+      "slug": "zaz",
+      "name": "ZAZ",
+      "aliases": [
+        "ЗАЗ"
+      ],
+      "countries": [
+        "nl",
+        "ua"
+      ]
+    },
+    {
+      "id": "zeekr",
+      "slug": "zeekr",
+      "name": "Zeekr",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "lu",
+        "my",
+        "nl",
+        "nz",
+        "th",
+        "ua"
+      ]
+    },
+    {
+      "id": "zenos",
+      "slug": "zenos",
+      "name": "Zenos",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    }
+  ]
+}

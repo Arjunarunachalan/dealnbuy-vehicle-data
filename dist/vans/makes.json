@@ -1,0 +1,1347 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.09.1",
+  "updatedAt": "2026-09-12T13:58:20Z",
+  "source": {
+    "name": "VehiclesDB",
+    "version": "2026.09.1",
+    "license": "CC-BY-4.0"
+  },
+  "makes": [
+    {
+      "id": "aixam",
+      "slug": "aixam",
+      "name": "Aixam",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "alke",
+      "slug": "alke",
+      "name": "Alke",
+      "countries": [
+        "es",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "am-general",
+      "slug": "am-general",
+      "name": "Am General",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ameline",
+      "slug": "ameline",
+      "name": "Ameline",
+      "countries": [
+        "es",
+        "fi"
+      ]
+    },
+    {
+      "id": "atm",
+      "slug": "atm",
+      "name": "Atm",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "austin",
+      "slug": "austin",
+      "name": "Austin",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "austin-morris",
+      "slug": "austin-morris",
+      "name": "Austin-Morris",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "barkas",
+      "slug": "barkas",
+      "name": "Barkas",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "bedford",
+      "slug": "bedford",
+      "name": "Bedford",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "bloomfields",
+      "slug": "bloomfields",
+      "name": "Bloomfields",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "bremach",
+      "slug": "bremach",
+      "name": "Bremach",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "byd",
+      "slug": "byd",
+      "name": "BYD",
+      "aliases": [
+        "比亚迪"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "cadillac",
+      "slug": "cadillac",
+      "name": "Cadillac",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "can-am",
+      "slug": "can-am",
+      "name": "Can-Am",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "carrocerias-minda",
+      "slug": "carrocerias-minda",
+      "name": "Carrocerias Minda",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "caselani",
+      "slug": "caselani",
+      "name": "Caselani",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "cela",
+      "slug": "cela",
+      "name": "Cela",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "cenntro",
+      "slug": "cenntro",
+      "name": "Cenntro",
+      "countries": [
+        "es",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "chevrolet",
+      "slug": "chevrolet",
+      "name": "Chevrolet",
+      "aliases": [
+        "Chevy"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "citroen",
+      "slug": "citroen",
+      "name": "Citroën",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "cte",
+      "slug": "cte",
+      "name": "Cte",
+      "countries": [
+        "nl"
+      ]
+    },
+    {
+      "id": "dacia",
+      "slug": "dacia",
+      "name": "Dacia",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "daewoo",
+      "slug": "daewoo",
+      "name": "Daewoo",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "daf",
+      "slug": "daf",
+      "name": "DAF",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "daihatsu",
+      "slug": "daihatsu",
+      "name": "Daihatsu",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "daimler",
+      "slug": "daimler",
+      "name": "Daimler",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "daimlerchrysler",
+      "slug": "daimlerchrysler",
+      "name": "Daimlerchrysler",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "dangel",
+      "slug": "dangel",
+      "name": "Dangel",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "datsun",
+      "slug": "datsun",
+      "name": "Datsun",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "dfsk",
+      "slug": "dfsk",
+      "name": "DFSK",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "dodge",
+      "slug": "dodge",
+      "name": "Dodge",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "edward-davies",
+      "slug": "edward-davies",
+      "name": "Edward Davies",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "edward-davies-commercials",
+      "slug": "edward-davies-commercials",
+      "name": "Edward Davies Commercials",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "equi-trek",
+      "slug": "equi-trek",
+      "name": "Equi-Trek",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "etesia",
+      "slug": "etesia",
+      "name": "Etesia",
+      "countries": [
+        "es",
+        "gb",
+        "lu"
+      ]
+    },
+    {
+      "id": "evum-motors",
+      "slug": "evum-motors",
+      "name": "Evum Motors",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "farizon",
+      "slug": "farizon",
+      "name": "Farizon",
+      "countries": [
+        "es",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "fiat",
+      "slug": "fiat",
+      "name": "Fiat",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "fleur-de-lys",
+      "slug": "fleur-de-lys",
+      "name": "Fleur De Lys",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "ford",
+      "slug": "ford",
+      "name": "Ford",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "foton",
+      "slug": "foton",
+      "name": "Foton",
+      "countries": [
+        "es",
+        "lu"
+      ]
+    },
+    {
+      "id": "freight-rover",
+      "slug": "freight-rover",
+      "name": "Freight Rover",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "furcar",
+      "slug": "furcar",
+      "name": "Furcar",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "garia",
+      "slug": "garia",
+      "name": "Garia",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "gmc",
+      "slug": "gmc",
+      "name": "GMC",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "goupil",
+      "slug": "goupil",
+      "name": "Goupil",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "great-wall",
+      "slug": "great-wall",
+      "name": "Great Wall",
+      "aliases": [
+        "长城"
+      ],
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "honda",
+      "slug": "honda",
+      "name": "Honda",
+      "aliases": [
+        "ホンダ"
+      ],
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "humbaur",
+      "slug": "humbaur",
+      "name": "Humbaur",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "hummer",
+      "slug": "hummer",
+      "name": "Hummer",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "hvm",
+      "slug": "hvm",
+      "name": "Hvm",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "hyundai",
+      "slug": "hyundai",
+      "name": "Hyundai",
+      "aliases": [
+        "현대"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "iav",
+      "slug": "iav",
+      "name": "Iav",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "ineos",
+      "slug": "ineos",
+      "name": "INEOS",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "international",
+      "slug": "international",
+      "name": "International",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "isuzu",
+      "slug": "isuzu",
+      "name": "Isuzu",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "its-system",
+      "slug": "its-system",
+      "name": "Its System",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "iveco",
+      "slug": "iveco",
+      "name": "Iveco",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "iveco-igloocar",
+      "slug": "iveco-igloocar",
+      "name": "Iveco / Igloocar",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "jcb",
+      "slug": "jcb",
+      "name": "JCB",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "jeep",
+      "slug": "jeep",
+      "name": "Jeep",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "junge-fahrzeugbau-gmbh",
+      "slug": "junge-fahrzeugbau-gmbh",
+      "name": "Junge Fahrzeugbau Gmbh",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "kawasaki",
+      "slug": "kawasaki",
+      "name": "Kawasaki",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "kerstner",
+      "slug": "kerstner",
+      "name": "Kerstner",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "kgm",
+      "slug": "kgm",
+      "name": "KGM",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "kia",
+      "slug": "kia",
+      "name": "Kia",
+      "aliases": [
+        "기아"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "kubota",
+      "slug": "kubota",
+      "name": "Kubota",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "lamar",
+      "slug": "lamar",
+      "name": "Lamar",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "land-rover",
+      "slug": "land-rover",
+      "name": "Land Rover",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "ldv",
+      "slug": "ldv",
+      "name": "LDV",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "levc",
+      "slug": "levc",
+      "name": "LEVC",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "leyland-cars",
+      "slug": "leyland-cars",
+      "name": "Leyland Cars",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "leyland-daf",
+      "slug": "leyland-daf",
+      "name": "Leyland Daf",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "man",
+      "slug": "man",
+      "name": "MAN",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "maxus",
+      "slug": "maxus",
+      "name": "Maxus",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "mazda",
+      "slug": "mazda",
+      "name": "Mazda",
+      "countries": [
+        "fi",
+        "gb",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "mercedes-benz",
+      "slug": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "aliases": [
+        "Merc",
+        "Benz",
+        "MB"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "mercedes-benz-mrauto",
+      "slug": "mercedes-benz-mrauto",
+      "name": "Mercedes-Benz/Mrauto",
+      "countries": [
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "mg",
+      "slug": "mg",
+      "name": "MG",
+      "countries": [
+        "gb",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "mini",
+      "slug": "mini",
+      "name": "Mini",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "mitsubishi",
+      "slug": "mitsubishi",
+      "name": "Mitsubishi",
+      "aliases": [
+        "三菱"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "mitsubishi-fuso",
+      "slug": "mitsubishi-fuso",
+      "name": "Mitsubishi Fuso",
+      "aliases": [
+        "Fuso"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "morris",
+      "slug": "morris",
+      "name": "Morris",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "movex",
+      "slug": "movex",
+      "name": "Movex",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "nextem",
+      "slug": "nextem",
+      "name": "Nextem",
+      "countries": [
+        "th"
+      ]
+    },
+    {
+      "id": "nilsson",
+      "slug": "nilsson",
+      "name": "Nilsson",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "nissan",
+      "slug": "nissan",
+      "name": "Nissan",
+      "aliases": [
+        "日産"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "oil-steel",
+      "slug": "oil-steel",
+      "name": "Oil&steel",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "opel",
+      "slug": "opel",
+      "name": "Opel",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "opel-vauxhall",
+      "slug": "opel-vauxhall",
+      "name": "Opel-Vauxhall",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "palfinger",
+      "slug": "palfinger",
+      "name": "Palfinger",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "paragan",
+      "slug": "paragan",
+      "name": "Paragan",
+      "countries": [
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "peugeot",
+      "slug": "peugeot",
+      "name": "Peugeot",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "peugeot-lamar",
+      "slug": "peugeot-lamar",
+      "name": "Peugeot/Lamar",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "piaggio",
+      "slug": "piaggio",
+      "name": "Piaggio",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "polaris",
+      "slug": "polaris",
+      "name": "Polaris",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "proton",
+      "slug": "proton",
+      "name": "Proton",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "ram",
+      "slug": "ram",
+      "name": "Ram",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "renault",
+      "slug": "renault",
+      "name": "Renault",
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "roelofsen",
+      "slug": "roelofsen",
+      "name": "Roelofsen",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "rover",
+      "slug": "rover",
+      "name": "Rover",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "saab",
+      "slug": "saab",
+      "name": "Saab",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "santana",
+      "slug": "santana",
+      "name": "Santana",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "saxas-nutzfahrzeuge-werdau",
+      "slug": "saxas-nutzfahrzeuge-werdau",
+      "name": "Saxas Nutzfahrzeuge Werdau",
+      "countries": [
+        "es",
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "scattolini",
+      "slug": "scattolini",
+      "name": "Scattolini",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "seat",
+      "slug": "seat",
+      "name": "SEAT",
+      "countries": [
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "simca",
+      "slug": "simca",
+      "name": "Simca",
+      "countries": [
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "skoda",
+      "slug": "skoda",
+      "name": "Škoda",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "socage",
+      "slug": "socage",
+      "name": "Socage",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "sommer-gmbh",
+      "slug": "sommer-gmbh",
+      "name": "Sommer Gmbh",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "spier",
+      "slug": "spier",
+      "name": "Spier",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "ssangyong",
+      "slug": "ssangyong",
+      "name": "SsangYong",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "streetscooter",
+      "slug": "streetscooter",
+      "name": "Streetscooter",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "studebaker",
+      "slug": "studebaker",
+      "name": "Studebaker",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "stx",
+      "slug": "stx",
+      "name": "Stx",
+      "countries": [
+        "es",
+        "fi",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "subaru",
+      "slug": "subaru",
+      "name": "Subaru",
+      "countries": [
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "suzuki",
+      "slug": "suzuki",
+      "name": "Suzuki",
+      "aliases": [
+        "スズキ"
+      ],
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "talbot",
+      "slug": "talbot",
+      "name": "Talbot",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "teijo",
+      "slug": "teijo",
+      "name": "Teijo",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "theault",
+      "slug": "theault",
+      "name": "Theault",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "toyota",
+      "slug": "toyota",
+      "name": "Toyota",
+      "aliases": [
+        "丰田",
+        "トヨタ"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl",
+        "th"
+      ]
+    },
+    {
+      "id": "uaz",
+      "slug": "uaz",
+      "name": "UAZ",
+      "aliases": [
+        "УАЗ"
+      ],
+      "countries": [
+        "es",
+        "nl"
+      ]
+    },
+    {
+      "id": "van-blitterswijk",
+      "slug": "van-blitterswijk",
+      "name": "Van Blitterswijk",
+      "countries": [
+        "nl"
+      ]
+    },
+    {
+      "id": "vauxhall",
+      "slug": "vauxhall",
+      "name": "Vauxhall",
+      "countries": [
+        "es",
+        "fi",
+        "gb",
+        "nl"
+      ]
+    },
+    {
+      "id": "volkswagen",
+      "slug": "volkswagen",
+      "name": "Volkswagen",
+      "aliases": [
+        "VW",
+        "Vdub"
+      ],
+      "countries": [
+        "de",
+        "es",
+        "fi",
+        "gb",
+        "lu",
+        "nl"
+      ]
+    },
+    {
+      "id": "wacker-neuson",
+      "slug": "wacker-neuson",
+      "name": "Wacker Neuson",
+      "countries": [
+        "gb"
+      ]
+    },
+    {
+      "id": "willys",
+      "slug": "willys",
+      "name": "Willys",
+      "countries": [
+        "fi",
+        "nl"
+      ]
+    },
+    {
+      "id": "zago-automotive",
+      "slug": "zago-automotive",
+      "name": "Zago Automotive",
+      "countries": [
+        "es",
+        "nl"
+      ]
+    }
+  ]
+}
