@@ -1,0 +1,19 @@
+﻿{
+  "name": "vehicle-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canonical vehicle reference data repository. Derived from VehiclesDB (CC-BY 4.0). Single source of truth for makes and models consumed by downstream applications as a static JSON bundle.",
+  "scripts": {
+    "import:vehiclesdb": "node scripts/import-vehiclesdb.js",
+    "normalize":         "node scripts/normalize.js",
+    "validate":          "node scripts/validate.js",
+    "build":             "node scripts/build.js",
+    "diff":              "node scripts/diff.js",
+    "check":             "node scripts/validate.js && node scripts/build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["vehicles", "motorcycles", "cars", "reference-data", "vehiclesdb"],
+  "license": "SEE DATA-SOURCES.md"
+}

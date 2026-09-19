@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ─── What IS committed (documented here for clarity) ───────────────────────────
+#
+# data/sources/vehiclesdb/     verbatim source snapshot — YES, commit this
+# data/normalized/             application data — YES, commit this
+# dist/vehicle-data.json       generated bundle — YES, commit this
+#   (committing dist avoids requiring downstream apps to run the build;
+#    if you prefer to rebuild in CI, add dist/ here)
+#
+# ─── What is NOT committed ─────────────────────────────────────────────────────
+# (nothing from the data pipeline is excluded — it is all small enough)

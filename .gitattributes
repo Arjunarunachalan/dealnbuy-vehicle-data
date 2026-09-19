@@ -1,0 +1,8 @@
+# Normalize line endings to LF in the repository
+* text=auto eol=lf
+
+# Force binary (don't mangle large JSON or SQLite)
+*.json text eol=lf
+*.md   text eol=lf
+*.js   text eol=lf
+*.yml  text eol=lf

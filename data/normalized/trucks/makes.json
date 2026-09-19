@@ -1,0 +1,890 @@
+[
+  {
+    "id": "albach",
+    "slug": "albach",
+    "name": "Albach",
+    "countries": [
+      "fi",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "am-general",
+    "slug": "am-general",
+    "name": "Am General",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "austin",
+    "slug": "austin",
+    "name": "Austin",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "bedford",
+    "slug": "bedford",
+    "name": "Bedford",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "bmc",
+    "slug": "bmc",
+    "name": "BMC",
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "bucher",
+    "slug": "bucher",
+    "name": "Bucher",
+    "countries": [
+      "fi",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "chevrolet",
+    "slug": "chevrolet",
+    "name": "Chevrolet",
+    "aliases": [
+      "Chevy"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "chrysler",
+    "slug": "chrysler",
+    "name": "Chrysler",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "citroen",
+    "slug": "citroen",
+    "name": "Citroën",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "daf",
+    "slug": "daf",
+    "name": "DAF",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "daimlerchrysler",
+    "slug": "daimlerchrysler",
+    "name": "Daimlerchrysler",
+    "countries": [
+      "fi",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "de-soto",
+    "slug": "de-soto",
+    "name": "De Soto",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "demag",
+    "slug": "demag",
+    "name": "Demag",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "dodge",
+    "slug": "dodge",
+    "name": "Dodge",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "eder-gmbh",
+    "slug": "eder-gmbh",
+    "name": "Eder Gmbh",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "etalmobil",
+    "slug": "etalmobil",
+    "name": "Etalmobil",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "faun",
+    "slug": "faun",
+    "name": "Faun",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "faun-umwelttechnik",
+    "slug": "faun-umwelttechnik",
+    "name": "Faun Umwelttechnik",
+    "countries": [
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "fiat",
+    "slug": "fiat",
+    "name": "Fiat",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "ford",
+    "slug": "ford",
+    "name": "Ford",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "fordson",
+    "slug": "fordson",
+    "name": "Fordson",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "foton",
+    "slug": "foton",
+    "name": "Foton",
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "freightliner",
+    "slug": "freightliner",
+    "name": "Freightliner",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "ginaf",
+    "slug": "ginaf",
+    "name": "Ginaf",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "gmc",
+    "slug": "gmc",
+    "name": "GMC",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "grove",
+    "slug": "grove",
+    "name": "Grove",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "haller-benelux",
+    "slug": "haller-benelux",
+    "name": "Haller Benelux",
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "hanomag",
+    "slug": "hanomag",
+    "name": "Hanomag",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "hummer",
+    "slug": "hummer",
+    "name": "Hummer",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "hydrema",
+    "slug": "hydrema",
+    "name": "Hydrema",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "international",
+    "slug": "international",
+    "name": "International",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "isuzu",
+    "slug": "isuzu",
+    "name": "Isuzu",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "iveco",
+    "slug": "iveco",
+    "name": "Iveco",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "jcb",
+    "slug": "jcb",
+    "name": "JCB",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "junge-fahrzeugbau",
+    "slug": "junge-fahrzeugbau",
+    "name": "Junge Fahrzeugbau",
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "junge-fahrzeugbau-gmbh",
+    "slug": "junge-fahrzeugbau-gmbh",
+    "name": "Junge Fahrzeugbau Gmbh",
+    "countries": [
+      "es",
+      "fi",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "kenworth",
+    "slug": "kenworth",
+    "name": "Kenworth",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "krismar",
+    "slug": "krismar",
+    "name": "Krismar",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "lamar",
+    "slug": "lamar",
+    "name": "Lamar",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "land-rover",
+    "slug": "land-rover",
+    "name": "Land Rover",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "ldv",
+    "slug": "ldv",
+    "name": "LDV",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "leyland",
+    "slug": "leyland",
+    "name": "Leyland",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "leyland-daf",
+    "slug": "leyland-daf",
+    "name": "Leyland Daf",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "liebherr",
+    "slug": "liebherr",
+    "name": "Liebherr",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "lincoln",
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "mack",
+    "slug": "mack",
+    "name": "Mack",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "magirus-deutz",
+    "slug": "magirus-deutz",
+    "name": "Magirus-Deutz",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "man",
+    "slug": "man",
+    "name": "MAN",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "maxus",
+    "slug": "maxus",
+    "name": "Maxus",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "mecalac",
+    "slug": "mecalac",
+    "name": "Mecalac",
+    "countries": [
+      "gb",
+      "lu"
+    ]
+  },
+  {
+    "id": "mercedes-benz",
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "aliases": [
+      "Merc",
+      "Benz",
+      "MB"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "mitsubishi",
+    "slug": "mitsubishi",
+    "name": "Mitsubishi",
+    "aliases": [
+      "三菱"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "mitsubishi-fuso",
+    "slug": "mitsubishi-fuso",
+    "name": "Mitsubishi Fuso",
+    "aliases": [
+      "Fuso"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "monza",
+    "slug": "monza",
+    "name": "Monza",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "nissan",
+    "slug": "nissan",
+    "name": "Nissan",
+    "aliases": [
+      "日産"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "opel",
+    "slug": "opel",
+    "name": "Opel",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "p-h",
+    "slug": "p-h",
+    "name": "P & H",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "peterbilt",
+    "slug": "peterbilt",
+    "name": "Peterbilt",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "peugeot",
+    "slug": "peugeot",
+    "name": "Peugeot",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "ram",
+    "slug": "ram",
+    "name": "Ram",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "renault",
+    "slug": "renault",
+    "name": "Renault",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "renault-trucks",
+    "slug": "renault-trucks",
+    "name": "Renault Trucks",
+    "countries": [
+      "es",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "sany",
+    "slug": "sany",
+    "name": "Sany",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "saurer",
+    "slug": "saurer",
+    "name": "Saurer",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "saxas",
+    "slug": "saxas",
+    "name": "Saxas",
+    "countries": [
+      "es",
+      "lu"
+    ]
+  },
+  {
+    "id": "saxas-nutzfahrzeuge-werdau",
+    "slug": "saxas-nutzfahrzeuge-werdau",
+    "name": "Saxas Nutzfahrzeuge Werdau",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "scania",
+    "slug": "scania",
+    "name": "Scania",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "scania-vabis",
+    "slug": "scania-vabis",
+    "name": "Scania-Vabis",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "schmidt",
+    "slug": "schmidt",
+    "name": "Schmidt",
+    "countries": [
+      "nl"
+    ]
+  },
+  {
+    "id": "schwing",
+    "slug": "schwing",
+    "name": "Schwing",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "setra",
+    "slug": "setra",
+    "name": "Setra",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "sisu",
+    "slug": "sisu",
+    "name": "Sisu",
+    "countries": [
+      "fi"
+    ]
+  },
+  {
+    "id": "spier",
+    "slug": "spier",
+    "name": "Spier",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "spierings",
+    "slug": "spierings",
+    "name": "Spierings",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "steyr",
+    "slug": "steyr",
+    "name": "Steyr",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "stx",
+    "slug": "stx",
+    "name": "Stx",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "tadano",
+    "slug": "tadano",
+    "name": "Tadano",
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "tadano-faun",
+    "slug": "tadano-faun",
+    "name": "Tadano Faun",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "terberg",
+    "slug": "terberg",
+    "name": "Terberg",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "terex",
+    "slug": "terex",
+    "name": "Terex",
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "thwaites",
+    "slug": "thwaites",
+    "name": "Thwaites",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "toyota",
+    "slug": "toyota",
+    "name": "Toyota",
+    "aliases": [
+      "丰田",
+      "トヨタ"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "vauxhall",
+    "slug": "vauxhall",
+    "name": "Vauxhall",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "volkswagen",
+    "slug": "volkswagen",
+    "name": "Volkswagen",
+    "aliases": [
+      "VW",
+      "Vdub"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "volta-trucks",
+    "slug": "volta-trucks",
+    "name": "Volta Trucks",
+    "countries": [
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "volvo",
+    "slug": "volvo",
+    "name": "Volvo",
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "wacker-neuson",
+    "slug": "wacker-neuson",
+    "name": "Wacker Neuson",
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "wecon",
+    "slug": "wecon",
+    "name": "Wecon",
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "wvt",
+    "slug": "wvt",
+    "name": "Wvt",
+    "countries": [
+      "nl"
+    ]
+  },
+  {
+    "id": "yaxing",
+    "slug": "yaxing",
+    "name": "Yaxing",
+    "countries": [
+      "nl"
+    ]
+  }
+]

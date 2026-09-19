@@ -1,0 +1,77 @@
+﻿name: Validate and Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-and-build:
+    name: Validate and Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify source snapshot exists
+        run: |
+          if [ ! -f data/sources/vehiclesdb/manifest.json ]; then
+            echo "ERROR: VehiclesDB source snapshot not found."
+            echo "Run: npm run import:vehiclesdb -- <version>"
+            exit 1
+          fi
+          echo "Source manifest found:"
+          cat data/sources/vehiclesdb/manifest.json | python3 -c "
+          import json, sys
+          m = json.load(sys.stdin)
+          print(f'  Version : {m[\"version\"]}')
+          print(f'  Built at: {m[\"built_at\"]}')
+          print(f'  License : {m[\"license\"]}')
+          "
+
+      - name: Verify normalized data exists
+        run: |
+          for kind in cars motorcycles mopeds vans trucks buses; do
+            if [ ! -f "data/normalized/$kind/makes.json" ] || [ ! -f "data/normalized/$kind/models.json" ]; then
+              echo "ERROR: Normalized data missing for $kind"
+              echo "Run: npm run normalize"
+              exit 1
+            fi
+          done
+          echo "Normalized data present for all 6 kinds."
+
+      - name: Validate
+        run: node scripts/validate.js
+
+      - name: Build
+        run: node scripts/build.js
+
+      - name: Verify output
+        run: |
+          if [ ! -f dist/vehicle-data.json ]; then
+            echo "ERROR: dist/vehicle-data.json was not generated"
+            exit 1
+          fi
+          echo "Output file size: $(wc -c < dist/vehicle-data.json) bytes"
+          echo "Verifying required top-level keys..."
+          python3 -c "
+          import json, sys
+          with open('dist/vehicle-data.json') as f:
+              d = json.load(f)
+          required = ['schemaVersion','dataVersion','updatedAt','source','cars','motorcycles','mopeds','vans','trucks','buses']
+          missing = [k for k in required if k not in d]
+          if missing:
+              print(f'ERROR: Missing keys: {missing}')
+              sys.exit(1)
+          print('All required top-level keys present.')
+          print(f'Schema version : {d[\"schemaVersion\"]}')
+          print(f'Data version   : {d[\"dataVersion\"]}')
+          print(f'Source license : {d[\"source\"][\"license\"]}')
+          "

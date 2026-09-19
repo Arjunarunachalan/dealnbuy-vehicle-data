@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "acbus",
+    "slug": "acbus",
+    "name": "Acbus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "alexander-dennis",
+    "slug": "alexander-dennis",
+    "name": "Alexander Dennis",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "altas",
+    "slug": "altas",
+    "name": "Altas",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "altas-auto",
+    "slug": "altas-auto",
+    "name": "Altas Auto",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "ataman",
+    "slug": "ataman",
+    "name": "Ataman",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "ua"
+    ]
+  },
+  {
+    "id": "automet",
+    "slug": "automet",
+    "name": "Automet",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "ua"
+    ]
+  },
+  {
+    "id": "aveuro",
+    "slug": "aveuro",
+    "name": "Aveuro",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "ayats",
+    "slug": "ayats",
+    "name": "Ayats",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "lu"
+    ]
+  },
+  {
+    "id": "bci",
+    "slug": "bci",
+    "name": "Bci",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "bedford",
+    "slug": "bedford",
+    "name": "Bedford",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "beulas",
+    "slug": "beulas",
+    "name": "Beulas",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "bova",
+    "slug": "bova",
+    "name": "Bova",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "bristol",
+    "slug": "bristol",
+    "name": "Bristol",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl",
+      "nz"
+    ]
+  },
+  {
+    "id": "bus-prestige",
+    "slug": "bus-prestige",
+    "name": "Bus-Prestige",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "busconcept",
+    "slug": "busconcept",
+    "name": "Busconcept",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "byd",
+    "slug": "byd",
+    "name": "BYD",
+    "aliases": [
+      "比亚迪"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "caetano",
+    "slug": "caetano",
+    "name": "Caetano",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "car-bus-net",
+    "slug": "car-bus-net",
+    "name": "Car-bus.net",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "cento-bus",
+    "slug": "cento-bus",
+    "name": "Cento Bus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "citroen",
+    "slug": "citroen",
+    "name": "Citroën",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "crrc",
+    "slug": "crrc",
+    "name": "CRRC",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "cuby",
+    "slug": "cuby",
+    "name": "Cuby",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "daf",
+    "slug": "daf",
+    "name": "DAF",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "daimler",
+    "slug": "daimler",
+    "name": "Daimler",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl",
+      "nz"
+    ]
+  },
+  {
+    "id": "esref-karoser",
+    "slug": "esref-karoser",
+    "name": "Esref Karoser",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "ferqui",
+    "slug": "ferqui",
+    "name": "Ferqui",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "fiat",
+    "slug": "fiat",
+    "name": "Fiat",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "ford",
+    "slug": "ford",
+    "name": "Ford",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "foton",
+    "slug": "foton",
+    "name": "Foton",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "geely",
+    "slug": "geely",
+    "name": "Geely",
+    "aliases": [
+      "吉利"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "gmc",
+    "slug": "gmc",
+    "name": "GMC",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "gursozler",
+    "slug": "gursozler",
+    "name": "Gursozler",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl"
+    ]
+  },
+  {
+    "id": "heuliez-bus",
+    "slug": "heuliez-bus",
+    "name": "Heuliez Bus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl"
+    ]
+  },
+  {
+    "id": "higer",
+    "slug": "higer",
+    "name": "Higer",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "hino",
+    "slug": "hino",
+    "name": "Hino",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "hyundai",
+    "slug": "hyundai",
+    "name": "Hyundai",
+    "aliases": [
+      "현대"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "iles-automotive",
+    "slug": "iles-automotive",
+    "name": "Iles Automotive",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "indcar",
+    "slug": "indcar",
+    "name": "Indcar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "international",
+    "slug": "international",
+    "name": "International",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "iris-bus",
+    "slug": "iris-bus",
+    "name": "Iris.bus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "irisbus",
+    "slug": "irisbus",
+    "name": "Irisbus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "irizar",
+    "slug": "irizar",
+    "name": "Irizar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl"
+    ]
+  },
+  {
+    "id": "isuzu",
+    "slug": "isuzu",
+    "name": "Isuzu",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "iveco",
+    "slug": "iveco",
+    "name": "Iveco",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "iveco-bus",
+    "slug": "iveco-bus",
+    "name": "Iveco Bus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "karsan",
+    "slug": "karsan",
+    "name": "Karsan",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "lu",
+      "nl"
+    ]
+  },
+  {
+    "id": "kia",
+    "slug": "kia",
+    "name": "Kia",
+    "aliases": [
+      "기아"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "king-long",
+    "slug": "king-long",
+    "name": "King Long",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "kutsenits",
+    "slug": "kutsenits",
+    "name": "Kutsenits",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "ua"
+    ]
+  },
+  {
+    "id": "land-rover",
+    "slug": "land-rover",
+    "name": "Land Rover",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz"
+    ]
+  },
+  {
+    "id": "ldv",
+    "slug": "ldv",
+    "name": "LDV",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz"
+    ]
+  },
+  {
+    "id": "leyland",
+    "slug": "leyland",
+    "name": "Leyland",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl",
+      "nz"
+    ]
+  },
+  {
+    "id": "leyland-daf",
+    "slug": "leyland-daf",
+    "name": "Leyland Daf",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "man",
+    "slug": "man",
+    "name": "MAN",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "mazda",
+    "slug": "mazda",
+    "name": "Mazda",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "mengerler",
+    "slug": "mengerler",
+    "name": "Mengerler",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "nl"
+    ]
+  },
+  {
+    "id": "mercedes-benz",
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "aliases": [
+      "Merc",
+      "Benz",
+      "MB"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "mercus",
+    "slug": "mercus",
+    "name": "Mercus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "mitsubishi",
+    "slug": "mitsubishi",
+    "name": "Mitsubishi",
+    "aliases": [
+      "三菱"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz"
+    ]
+  },
+  {
+    "id": "mitsubishi-fuso",
+    "slug": "mitsubishi-fuso",
+    "name": "Mitsubishi Fuso",
+    "aliases": [
+      "Fuso"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  },
+  {
+    "id": "neoplan",
+    "slug": "neoplan",
+    "name": "Neoplan",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "nissan",
+    "slug": "nissan",
+    "name": "Nissan",
+    "aliases": [
+      "日産"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "optare",
+    "slug": "optare",
+    "name": "Optare",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "otokar",
+    "slug": "otokar",
+    "name": "Otokar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "lu",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "pacific-tur",
+    "slug": "pacific-tur",
+    "name": "Pacific Tur",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "peugeot",
+    "slug": "peugeot",
+    "name": "Peugeot",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "plaxton",
+    "slug": "plaxton",
+    "name": "Plaxton",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "ua"
+    ]
+  },
+  {
+    "id": "polster",
+    "slug": "polster",
+    "name": "Polster",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi"
+    ]
+  },
+  {
+    "id": "renault",
+    "slug": "renault",
+    "name": "Renault",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "rosero-p",
+    "slug": "rosero-p",
+    "name": "Rosero-P",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "scania",
+    "slug": "scania",
+    "name": "Scania",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "setra",
+    "slug": "setra",
+    "name": "Setra",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "lu",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "sitcar",
+    "slug": "sitcar",
+    "name": "Sitcar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "solaris",
+    "slug": "solaris",
+    "name": "Solaris",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "sprintcar",
+    "slug": "sprintcar",
+    "name": "Sprintcar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "switch",
+    "slug": "switch",
+    "name": "Switch",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "tekaydinlar",
+    "slug": "tekaydinlar",
+    "name": "Tekaydinlar",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es"
+    ]
+  },
+  {
+    "id": "temsa",
+    "slug": "temsa",
+    "name": "Temsa",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "toyota",
+    "slug": "toyota",
+    "name": "Toyota",
+    "aliases": [
+      "丰田",
+      "トヨタ"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "ugur-karoser",
+    "slug": "ugur-karoser",
+    "name": "Ugur Karoser",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "unvi",
+    "slug": "unvi",
+    "name": "UNVI",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "van-hool",
+    "slug": "van-hool",
+    "name": "Van Hool",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "vauxhall",
+    "slug": "vauxhall",
+    "name": "Vauxhall",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb",
+      "nz"
+    ]
+  },
+  {
+    "id": "vdl",
+    "slug": "vdl",
+    "name": "VDL",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "vdl-bova",
+    "slug": "vdl-bova",
+    "name": "Vdl Bova",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl",
+      "ua"
+    ]
+  },
+  {
+    "id": "volkswagen",
+    "slug": "volkswagen",
+    "name": "Volkswagen",
+    "aliases": [
+      "VW",
+      "Vdub"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "volvo",
+    "slug": "volvo",
+    "name": "Volvo",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "gb",
+      "lu",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "warmiaki",
+    "slug": "warmiaki",
+    "name": "Warmiaki",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "wrightbus",
+    "slug": "wrightbus",
+    "name": "Wrightbus",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "gb"
+    ]
+  },
+  {
+    "id": "yutong",
+    "slug": "yutong",
+    "name": "Yutong",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "es",
+      "fi",
+      "gb",
+      "nl",
+      "nz",
+      "ua"
+    ]
+  },
+  {
+    "id": "zak",
+    "slug": "zak",
+    "name": "Zak",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "fi",
+      "nl"
+    ]
+  },
+  {
+    "id": "zaz",
+    "slug": "zaz",
+    "name": "ZAZ",
+    "aliases": [
+      "ЗАЗ"
+    ],
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "ua"
+    ]
+  },
+  {
+    "id": "zhongtong",
+    "slug": "zhongtong",
+    "name": "Zhongtong",
+    "kinds": [
+      "bus"
+    ],
+    "countries": [
+      "nz"
+    ]
+  }
+]

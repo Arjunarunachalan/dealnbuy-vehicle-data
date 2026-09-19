@@ -1,0 +1,40 @@
+{
+  "importedAt": "2026-09-19T05:12:46.122Z",
+  "requestedVersion": "2026.09.1",
+  "confirmedVersion": "2026.09.1",
+  "sourceRepository": "https://github.com/vehiclesdb/vehiclesdb",
+  "baseUrl": "https://raw.githubusercontent.com/vehiclesdb/vehiclesdb/main",
+  "license": "CC-BY-4.0",
+  "attribution": {
+    "required": true,
+    "text": "Vehicle data by VehiclesDB",
+    "url": "https://vehiclesdb.com",
+    "note": "Visible credit + link is a condition of CC-BY 4.0. A commercial license (vehiclesdb.com) waives only the VehiclesDB credit; upstream register notices (ATTRIBUTION.md) always apply."
+  },
+  "kinds": {
+    "car": {
+      "makes": 308,
+      "models": 5455
+    },
+    "motorcycle": {
+      "makes": 262,
+      "models": 6015
+    },
+    "moped": {
+      "makes": 311,
+      "models": 1370
+    },
+    "van": {
+      "makes": 128,
+      "models": 720
+    },
+    "truck": {
+      "makes": 90,
+      "models": 923
+    },
+    "bus": {
+      "makes": 93,
+      "models": 403
+    }
+  }
+}

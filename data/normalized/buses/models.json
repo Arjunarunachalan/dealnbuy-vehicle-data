@@ -1,0 +1,7062 @@
+[
+  {
+    "id": "acbus/sprinter",
+    "makeId": "acbus",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "alexander-dennis/dart",
+    "makeId": "alexander-dennis",
+    "slug": "dart",
+    "name": "Dart",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "alexander-dennis/enviro",
+    "makeId": "alexander-dennis",
+    "slug": "enviro",
+    "name": "Enviro",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "alexander-dennis/javelin",
+    "makeId": "alexander-dennis",
+    "slug": "javelin",
+    "name": "Javelin",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "altas-auto/sprinter",
+    "makeId": "altas-auto",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "altas/sprinter",
+    "makeId": "altas",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "ataman/a-092h6",
+    "makeId": "ataman",
+    "slug": "a-092h6",
+    "name": "A-092H6",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "ataman/d-093s2",
+    "makeId": "ataman",
+    "slug": "d-093s2",
+    "name": "D-093S2",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "automet/apollo",
+    "makeId": "automet",
+    "slug": "apollo",
+    "name": "Apollo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "aveuro/sprinter",
+    "makeId": "aveuro",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "ayats/bravo",
+    "makeId": "ayats",
+    "slug": "bravo",
+    "name": "Bravo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "ayats/horizon",
+    "makeId": "ayats",
+    "slug": "horizon",
+    "name": "Horizon",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "lu_snca"
+    ]
+  },
+  {
+    "id": "bci/cityrider",
+    "makeId": "bci",
+    "slug": "cityrider",
+    "name": "Cityrider",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "bci/classmaster",
+    "makeId": "bci",
+    "slug": "classmaster",
+    "name": "Classmaster",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "bedford/sb",
+    "makeId": "bedford",
+    "slug": "sb",
+    "name": "SB",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "beulas/glory",
+    "makeId": "beulas",
+    "slug": "glory",
+    "name": "Glory",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "beulas/jewel",
+    "makeId": "beulas",
+    "slug": "jewel",
+    "name": "Jewel",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "bova/fhd",
+    "makeId": "bova",
+    "slug": "fhd",
+    "name": "Fhd",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "bova/fld",
+    "makeId": "bova",
+    "slug": "fld",
+    "name": "Fld",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "bova/futura",
+    "makeId": "bova",
+    "slug": "futura",
+    "name": "Futura",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "bova/magiq",
+    "makeId": "bova",
+    "slug": "magiq",
+    "name": "Magiq",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "bristol/lodekka",
+    "makeId": "bristol",
+    "slug": "lodekka",
+    "name": "Lodekka",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "bristol/vrt",
+    "makeId": "bristol",
+    "slug": "vrt",
+    "name": "Vrt",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "bus-prestige/sprinter",
+    "makeId": "bus-prestige",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "busconcept/sprinter",
+    "makeId": "busconcept",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "byd/ebus",
+    "makeId": "byd",
+    "slug": "ebus",
+    "name": "Ebus",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "byd/enviro",
+    "makeId": "byd",
+    "slug": "enviro",
+    "name": "Enviro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "caetano/levante",
+    "makeId": "caetano",
+    "slug": "levante",
+    "name": "Levante",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "car-bus-net/shaula",
+    "makeId": "car-bus-net",
+    "slug": "shaula",
+    "name": "Shaula",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "car-bus-net/spica",
+    "makeId": "car-bus-net",
+    "slug": "spica",
+    "name": "Spica",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "cento-bus/sprinter",
+    "makeId": "cento-bus",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "citroen/allied",
+    "makeId": "citroen",
+    "slug": "allied",
+    "name": "Allied",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "citroen/c25",
+    "makeId": "citroen",
+    "slug": "c25",
+    "name": "C25",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "citroen/jumper",
+    "makeId": "citroen",
+    "slug": "jumper",
+    "name": "Jumper",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "crrc/es",
+    "makeId": "crrc",
+    "slug": "es",
+    "name": "Es",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "crrc/et",
+    "makeId": "crrc",
+    "slug": "et",
+    "name": "Et",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "cuby/sprinter",
+    "makeId": "cuby",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "daf/200",
+    "makeId": "daf",
+    "slug": "200",
+    "name": "200",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "daf/230",
+    "makeId": "daf",
+    "slug": "230",
+    "name": "230",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "daf/sb",
+    "makeId": "daf",
+    "slug": "sb",
+    "name": "SB",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "daimler/fleetline",
+    "makeId": "daimler",
+    "slug": "fleetline",
+    "name": "Fleetline",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "esref-karoser/sprinter",
+    "makeId": "esref-karoser",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "ferqui/sunrise",
+    "makeId": "ferqui",
+    "slug": "sunrise",
+    "name": "Sunrise",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "ferqui/sunset",
+    "makeId": "ferqui",
+    "slug": "sunset",
+    "name": "Sunset",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "fiat/ducato",
+    "makeId": "fiat",
+    "slug": "ducato",
+    "name": "Ducato",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ford/tourneo",
+    "makeId": "ford",
+    "slug": "tourneo",
+    "name": "Tourneo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ford/transit",
+    "makeId": "ford",
+    "slug": "transit",
+    "name": "Transit",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "foton/bj",
+    "makeId": "foton",
+    "slug": "bj",
+    "name": "Bj",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "geely/c13e",
+    "makeId": "geely",
+    "slug": "c13e",
+    "name": "C13E",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "geely/geely",
+    "makeId": "geely",
+    "slug": "geely",
+    "name": "Geely",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "gmc/lav",
+    "makeId": "gmc",
+    "slug": "lav",
+    "name": "Lav",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "gmc/savana",
+    "makeId": "gmc",
+    "slug": "savana",
+    "name": "Savana",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "gursozler/sprinter",
+    "makeId": "gursozler",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "heuliez-bus/gx437",
+    "makeId": "heuliez-bus",
+    "slug": "gx437",
+    "name": "GX437",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "higer/a30",
+    "makeId": "higer",
+    "slug": "a30",
+    "name": "A30",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "higer/touring",
+    "makeId": "higer",
+    "slug": "touring",
+    "name": "Touring",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "hino/blue",
+    "makeId": "hino",
+    "slug": "blue",
+    "name": "Blue",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "hino/liesse",
+    "makeId": "hino",
+    "slug": "liesse",
+    "name": "Liesse",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "hino/rainbow",
+    "makeId": "hino",
+    "slug": "rainbow",
+    "name": "Rainbow",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "hyundai/h-1",
+    "makeId": "hyundai",
+    "slug": "h-1",
+    "name": "H-1",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "hyundai/iload",
+    "makeId": "hyundai",
+    "slug": "iload",
+    "name": "Iload",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "hyundai/universe",
+    "makeId": "hyundai",
+    "slug": "universe",
+    "name": "Universe",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iles-automotive/sprinter",
+    "makeId": "iles-automotive",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "indcar/mobi",
+    "makeId": "indcar",
+    "slug": "mobi",
+    "name": "Mobi",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "indcar/strada",
+    "makeId": "indcar",
+    "slug": "strada",
+    "name": "Strada",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "indcar/wing",
+    "makeId": "indcar",
+    "slug": "wing",
+    "name": "Wing",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "international/3800",
+    "makeId": "international",
+    "slug": "3800",
+    "name": "3800",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "international/s1700",
+    "makeId": "international",
+    "slug": "s1700",
+    "name": "S1700",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "iris-bus/daily",
+    "makeId": "iris-bus",
+    "slug": "daily",
+    "name": "Daily",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "iris-bus/eurorider",
+    "makeId": "iris-bus",
+    "slug": "eurorider",
+    "name": "Eurorider",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "irisbus/arway",
+    "makeId": "irisbus",
+    "slug": "arway",
+    "name": "Arway",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "irisbus/citelis",
+    "makeId": "irisbus",
+    "slug": "citelis",
+    "name": "Citelis",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "irisbus/crossway",
+    "makeId": "irisbus",
+    "slug": "crossway",
+    "name": "Crossway",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "irisbus/recreo",
+    "makeId": "irisbus",
+    "slug": "recreo",
+    "name": "Recreo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "irisbus/sfr",
+    "makeId": "irisbus",
+    "slug": "sfr",
+    "name": "Sfr",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "irizar/i4",
+    "makeId": "irizar",
+    "slug": "i4",
+    "name": "i4",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "irizar/i6",
+    "makeId": "irizar",
+    "slug": "i6",
+    "name": "i6",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "irizar/i8",
+    "makeId": "irizar",
+    "slug": "i8",
+    "name": "i8",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "isuzu/aos",
+    "makeId": "isuzu",
+    "slug": "aos",
+    "name": "Aos",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "isuzu/f-series",
+    "makeId": "isuzu",
+    "slug": "f-series",
+    "name": "F Series",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "isuzu/grand",
+    "makeId": "isuzu",
+    "slug": "grand",
+    "name": "Grand",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "isuzu/journey",
+    "makeId": "isuzu",
+    "slug": "journey",
+    "name": "Journey",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "isuzu/novo",
+    "makeId": "isuzu",
+    "slug": "novo",
+    "name": "Novo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "isuzu/novociti",
+    "makeId": "isuzu",
+    "slug": "novociti",
+    "name": "Novociti",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "isuzu/npr",
+    "makeId": "isuzu",
+    "slug": "npr",
+    "name": "Npr",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "isuzu/series",
+    "makeId": "isuzu",
+    "slug": "series",
+    "name": "Series",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "isuzu/turquoise",
+    "makeId": "isuzu",
+    "slug": "turquoise",
+    "name": "Turquoise",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "isuzu/visigo",
+    "makeId": "isuzu",
+    "slug": "visigo",
+    "name": "Visigo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco-bus/crossway",
+    "makeId": "iveco-bus",
+    "slug": "crossway",
+    "name": "Crossway",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco-bus/evadys",
+    "makeId": "iveco-bus",
+    "slug": "evadys",
+    "name": "Evadys",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/395e-10-30",
+    "makeId": "iveco",
+    "slug": "395e-10-30",
+    "name": "395E.10.30",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco/a50c17",
+    "makeId": "iveco",
+    "slug": "a50c17",
+    "name": "A50C17",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/a72c14e",
+    "makeId": "iveco",
+    "slug": "a72c14e",
+    "name": "A72C14E",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "iveco/as2002t",
+    "makeId": "iveco",
+    "slug": "as2002t",
+    "name": "AS2002T",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco/cc",
+    "makeId": "iveco",
+    "slug": "cc",
+    "name": "CC",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/crossway",
+    "makeId": "iveco",
+    "slug": "crossway",
+    "name": "Crossway",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/daily",
+    "makeId": "iveco",
+    "slug": "daily",
+    "name": "Daily",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "iveco/dyparro",
+    "makeId": "iveco",
+    "slug": "dyparro",
+    "name": "Dyparro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/forveda",
+    "makeId": "iveco",
+    "slug": "forveda",
+    "name": "Forveda",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "iveco/magelys",
+    "makeId": "iveco",
+    "slug": "magelys",
+    "name": "Magelys",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco/rapido",
+    "makeId": "iveco",
+    "slug": "rapido",
+    "name": "Rapido",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "iveco/rosero",
+    "makeId": "iveco",
+    "slug": "rosero",
+    "name": "Rosero",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "karsan/e-atak",
+    "makeId": "karsan",
+    "slug": "e-atak",
+    "name": "E-Atak",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "kia/pregio",
+    "makeId": "kia",
+    "slug": "pregio",
+    "name": "Pregio",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "king-long/xmq",
+    "makeId": "king-long",
+    "slug": "xmq",
+    "name": "Xmq",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "kutsenits/tourist",
+    "makeId": "kutsenits",
+    "slug": "tourist",
+    "name": "Tourist",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "land-rover/109",
+    "makeId": "land-rover",
+    "slug": "109",
+    "name": "109",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "land-rover/110",
+    "makeId": "land-rover",
+    "slug": "110",
+    "name": "110",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "land-rover/defender",
+    "makeId": "land-rover",
+    "slug": "defender",
+    "name": "Defender",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ldv/200",
+    "makeId": "ldv",
+    "slug": "200",
+    "name": "200",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ldv/400",
+    "makeId": "ldv",
+    "slug": "400",
+    "name": "400",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ldv/deliver",
+    "makeId": "ldv",
+    "slug": "deliver",
+    "name": "Deliver",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "ldv/maxus",
+    "makeId": "ldv",
+    "slug": "maxus",
+    "name": "Maxus",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "ldv/v80",
+    "makeId": "ldv",
+    "slug": "v80",
+    "name": "V80",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "leyland-daf/400",
+    "makeId": "leyland-daf",
+    "slug": "400",
+    "name": "400",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "leyland/leopard",
+    "makeId": "leyland",
+    "slug": "leopard",
+    "name": "Leopard",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "leyland/royal",
+    "makeId": "leyland",
+    "slug": "royal",
+    "name": "Royal",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "leyland/tiger",
+    "makeId": "leyland",
+    "slug": "tiger",
+    "name": "Tiger",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "man/91",
+    "makeId": "man",
+    "slug": "91",
+    "name": "91",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "man/beulas",
+    "makeId": "man",
+    "slug": "beulas",
+    "name": "Beulas",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "man/lion-s",
+    "makeId": "man",
+    "slug": "lion-s",
+    "name": "Lion's",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "man/nd",
+    "makeId": "man",
+    "slug": "nd",
+    "name": "Nd",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "man/rr",
+    "makeId": "man",
+    "slug": "rr",
+    "name": "RR",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "man/sl",
+    "makeId": "man",
+    "slug": "sl",
+    "name": "SL",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "man/tge",
+    "makeId": "man",
+    "slug": "tge",
+    "name": "Tge",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "man/tgm",
+    "makeId": "man",
+    "slug": "tgm",
+    "name": "TGM",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mazda/e-series",
+    "makeId": "mazda",
+    "slug": "e-series",
+    "name": "E Series",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mengerler/sprinter",
+    "makeId": "mengerler",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/1117",
+    "makeId": "mercedes-benz",
+    "slug": "1117",
+    "name": "1117",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/112",
+    "makeId": "mercedes-benz",
+    "slug": "112",
+    "name": "112",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/300",
+    "makeId": "mercedes-benz",
+    "slug": "300",
+    "name": "300",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mercedes-benz/308-d",
+    "makeId": "mercedes-benz",
+    "slug": "308-d",
+    "name": "308 D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/309",
+    "makeId": "mercedes-benz",
+    "slug": "309",
+    "name": "309",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/310",
+    "makeId": "mercedes-benz",
+    "slug": "310",
+    "name": "310",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/310-d",
+    "makeId": "mercedes-benz",
+    "slug": "310-d",
+    "name": "310 D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/311",
+    "makeId": "mercedes-benz",
+    "slug": "311",
+    "name": "311",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/312",
+    "makeId": "mercedes-benz",
+    "slug": "312",
+    "name": "312",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/312-d",
+    "makeId": "mercedes-benz",
+    "slug": "312-d",
+    "name": "312 D",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/313",
+    "makeId": "mercedes-benz",
+    "slug": "313",
+    "name": "313",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/316",
+    "makeId": "mercedes-benz",
+    "slug": "316",
+    "name": "316",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/318",
+    "makeId": "mercedes-benz",
+    "slug": "318",
+    "name": "318",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/400",
+    "makeId": "mercedes-benz",
+    "slug": "400",
+    "name": "400",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mercedes-benz/404",
+    "makeId": "mercedes-benz",
+    "slug": "404",
+    "name": "404",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/411",
+    "makeId": "mercedes-benz",
+    "slug": "411",
+    "name": "411",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/412",
+    "makeId": "mercedes-benz",
+    "slug": "412",
+    "name": "412",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/412-d",
+    "makeId": "mercedes-benz",
+    "slug": "412-d",
+    "name": "412 D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/413",
+    "makeId": "mercedes-benz",
+    "slug": "413",
+    "name": "413",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/416",
+    "makeId": "mercedes-benz",
+    "slug": "416",
+    "name": "416",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/515",
+    "makeId": "mercedes-benz",
+    "slug": "515",
+    "name": "515",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/516",
+    "makeId": "mercedes-benz",
+    "slug": "516",
+    "name": "516",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/518",
+    "makeId": "mercedes-benz",
+    "slug": "518",
+    "name": "518",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/519",
+    "makeId": "mercedes-benz",
+    "slug": "519",
+    "name": "519",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/609-d",
+    "makeId": "mercedes-benz",
+    "slug": "609-d",
+    "name": "609 D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/614",
+    "makeId": "mercedes-benz",
+    "slug": "614",
+    "name": "614",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/616-cdi",
+    "makeId": "mercedes-benz",
+    "slug": "616-cdi",
+    "name": "616 CDI",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/709-d",
+    "makeId": "mercedes-benz",
+    "slug": "709-d",
+    "name": "709 D",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/711",
+    "makeId": "mercedes-benz",
+    "slug": "711",
+    "name": "711",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/814",
+    "makeId": "mercedes-benz",
+    "slug": "814",
+    "name": "814",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/815",
+    "makeId": "mercedes-benz",
+    "slug": "815",
+    "name": "815",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/818",
+    "makeId": "mercedes-benz",
+    "slug": "818",
+    "name": "818",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/atego",
+    "makeId": "mercedes-benz",
+    "slug": "atego",
+    "name": "Atego",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/atomic",
+    "makeId": "mercedes-benz",
+    "slug": "atomic",
+    "name": "Atomic",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/automet",
+    "makeId": "mercedes-benz",
+    "slug": "automet",
+    "name": "Automet",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/bus",
+    "makeId": "mercedes-benz",
+    "slug": "bus",
+    "name": "Bus",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mercedes-benz/capacity",
+    "makeId": "mercedes-benz",
+    "slug": "capacity",
+    "name": "Capacity",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/citaro",
+    "makeId": "mercedes-benz",
+    "slug": "citaro",
+    "name": "Citaro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/conecto",
+    "makeId": "mercedes-benz",
+    "slug": "conecto",
+    "name": "Conecto",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/e12",
+    "makeId": "mercedes-benz",
+    "slug": "e12",
+    "name": "E12",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "mercedes-benz/e15",
+    "makeId": "mercedes-benz",
+    "slug": "e15",
+    "name": "E15",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/e16",
+    "makeId": "mercedes-benz",
+    "slug": "e16",
+    "name": "E16",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/e17",
+    "makeId": "mercedes-benz",
+    "slug": "e17",
+    "name": "E17",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/e19",
+    "makeId": "mercedes-benz",
+    "slug": "e19",
+    "name": "E19",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/ecitaro",
+    "makeId": "mercedes-benz",
+    "slug": "ecitaro",
+    "name": "Ecitaro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/evolve",
+    "makeId": "mercedes-benz",
+    "slug": "evolve",
+    "name": "Evolve",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/integro",
+    "makeId": "mercedes-benz",
+    "slug": "integro",
+    "name": "Integro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/intouro",
+    "makeId": "mercedes-benz",
+    "slug": "intouro",
+    "name": "Intouro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/l613d",
+    "makeId": "mercedes-benz",
+    "slug": "l613d",
+    "name": "L613D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/la",
+    "makeId": "mercedes-benz",
+    "slug": "la",
+    "name": "La",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mercedes-benz/mid",
+    "makeId": "mercedes-benz",
+    "slug": "mid",
+    "name": "Mid",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o303",
+    "makeId": "mercedes-benz",
+    "slug": "o303",
+    "name": "O303",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o404",
+    "makeId": "mercedes-benz",
+    "slug": "o404",
+    "name": "O404",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o405",
+    "makeId": "mercedes-benz",
+    "slug": "o405",
+    "name": "O405",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o614d",
+    "makeId": "mercedes-benz",
+    "slug": "o614d",
+    "name": "O614D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o815d",
+    "makeId": "mercedes-benz",
+    "slug": "o815d",
+    "name": "O815D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/o818d",
+    "makeId": "mercedes-benz",
+    "slug": "o818d",
+    "name": "O818D",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/oc500",
+    "makeId": "mercedes-benz",
+    "slug": "oc500",
+    "name": "OC500",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/oh",
+    "makeId": "mercedes-benz",
+    "slug": "oh",
+    "name": "Oh",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mercedes-benz/oh1628l",
+    "makeId": "mercedes-benz",
+    "slug": "oh1628l",
+    "name": "OH1628L",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/op312",
+    "makeId": "mercedes-benz",
+    "slug": "op312",
+    "name": "OP312",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/sprinter",
+    "makeId": "mercedes-benz",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mercedes-benz/sundancer",
+    "makeId": "mercedes-benz",
+    "slug": "sundancer",
+    "name": "Sundancer",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercedes-benz/sunset",
+    "makeId": "mercedes-benz",
+    "slug": "sunset",
+    "name": "Sunset",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/tourino",
+    "makeId": "mercedes-benz",
+    "slug": "tourino",
+    "name": "Tourino",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/tourismo",
+    "makeId": "mercedes-benz",
+    "slug": "tourismo",
+    "name": "Tourismo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mercedes-benz/travego",
+    "makeId": "mercedes-benz",
+    "slug": "travego",
+    "name": "Travego",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercedes-benz/vario",
+    "makeId": "mercedes-benz",
+    "slug": "vario",
+    "name": "Vario",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercus/crafter",
+    "makeId": "mercus",
+    "slug": "crafter",
+    "name": "Crafter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "mercus/sprinter",
+    "makeId": "mercus",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mercus/tge",
+    "makeId": "mercus",
+    "slug": "tge",
+    "name": "Tge",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "mitsubishi-fuso/canter",
+    "makeId": "mitsubishi-fuso",
+    "slug": "canter",
+    "name": "Canter",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mitsubishi-fuso/fighter",
+    "makeId": "mitsubishi-fuso",
+    "slug": "fighter",
+    "name": "Fighter",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mitsubishi-fuso/rosa",
+    "makeId": "mitsubishi-fuso",
+    "slug": "rosa",
+    "name": "Rosa",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mitsubishi/canter",
+    "makeId": "mitsubishi",
+    "slug": "canter",
+    "name": "Canter",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mitsubishi/fuso",
+    "makeId": "mitsubishi",
+    "slug": "fuso",
+    "name": "Fuso",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "mitsubishi/l300",
+    "makeId": "mitsubishi",
+    "slug": "l300",
+    "name": "L300",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "mitsubishi/rosa",
+    "makeId": "mitsubishi",
+    "slug": "rosa",
+    "name": "Rosa",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "neoplan/116",
+    "makeId": "neoplan",
+    "slug": "116",
+    "name": "116",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/212",
+    "makeId": "neoplan",
+    "slug": "212",
+    "name": "212",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/216",
+    "makeId": "neoplan",
+    "slug": "216",
+    "name": "216",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/2216",
+    "makeId": "neoplan",
+    "slug": "2216",
+    "name": "2216",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/316",
+    "makeId": "neoplan",
+    "slug": "316",
+    "name": "316",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/cityliner",
+    "makeId": "neoplan",
+    "slug": "cityliner",
+    "name": "Cityliner",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "neoplan/jetliner",
+    "makeId": "neoplan",
+    "slug": "jetliner",
+    "name": "Jetliner",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "neoplan/n122",
+    "makeId": "neoplan",
+    "slug": "n122",
+    "name": "N122",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "neoplan/skyliner",
+    "makeId": "neoplan",
+    "slug": "skyliner",
+    "name": "Skyliner",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "neoplan/starliner",
+    "makeId": "neoplan",
+    "slug": "starliner",
+    "name": "Starliner",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "neoplan/tourliner",
+    "makeId": "neoplan",
+    "slug": "tourliner",
+    "name": "Tourliner",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "nissan/caravan",
+    "makeId": "nissan",
+    "slug": "caravan",
+    "name": "Caravan",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "nissan/civilian",
+    "makeId": "nissan",
+    "slug": "civilian",
+    "name": "Civilian",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "nissan/diesel",
+    "makeId": "nissan",
+    "slug": "diesel",
+    "name": "Diesel",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "nissan/nv",
+    "makeId": "nissan",
+    "slug": "nv",
+    "name": "Nv",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "nissan/patrol",
+    "makeId": "nissan",
+    "slug": "patrol",
+    "name": "Patrol",
+    "kind": "bus",
+    "aliases": [
+      "Safari"
+    ],
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "nissan/urvan",
+    "makeId": "nissan",
+    "slug": "urvan",
+    "name": "Urvan",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/alero",
+    "makeId": "optare",
+    "slug": "alero",
+    "name": "Alero",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/excel",
+    "makeId": "optare",
+    "slug": "excel",
+    "name": "Excel",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/metrocity",
+    "makeId": "optare",
+    "slug": "metrocity",
+    "name": "Metrocity",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/metrodecker",
+    "makeId": "optare",
+    "slug": "metrodecker",
+    "name": "Metrodecker",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/solo",
+    "makeId": "optare",
+    "slug": "solo",
+    "name": "Solo",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/tempo",
+    "makeId": "optare",
+    "slug": "tempo",
+    "name": "Tempo",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "optare/v1080mc",
+    "makeId": "optare",
+    "slug": "v1080mc",
+    "name": "V1080MC",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "optare/versa",
+    "makeId": "optare",
+    "slug": "versa",
+    "name": "Versa",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "otokar/navigo",
+    "makeId": "otokar",
+    "slug": "navigo",
+    "name": "Navigo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "otokar/territo",
+    "makeId": "otokar",
+    "slug": "territo",
+    "name": "Territo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "otokar/ulyso",
+    "makeId": "otokar",
+    "slug": "ulyso",
+    "name": "Ulyso",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "otokar/vectio",
+    "makeId": "otokar",
+    "slug": "vectio",
+    "name": "Vectio",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "pacific-tur/sprinter",
+    "makeId": "pacific-tur",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "peugeot/boxer",
+    "makeId": "peugeot",
+    "slug": "boxer",
+    "name": "Boxer",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "peugeot/cvm",
+    "makeId": "peugeot",
+    "slug": "cvm",
+    "name": "Cvm",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "plaxton/elite",
+    "makeId": "plaxton",
+    "slug": "elite",
+    "name": "Elite",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "polster/sprinter",
+    "makeId": "polster",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "renault/master",
+    "makeId": "renault",
+    "slug": "master",
+    "name": "Master",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "rosero-p/first",
+    "makeId": "rosero-p",
+    "slug": "first",
+    "name": "First",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/bf",
+    "makeId": "scania",
+    "slug": "bf",
+    "name": "Bf",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/br",
+    "makeId": "scania",
+    "slug": "br",
+    "name": "Br",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/citywide",
+    "makeId": "scania",
+    "slug": "citywide",
+    "name": "Citywide",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/cn",
+    "makeId": "scania",
+    "slug": "cn",
+    "name": "Cn",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/interlink",
+    "makeId": "scania",
+    "slug": "interlink",
+    "name": "Interlink",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/k",
+    "makeId": "scania",
+    "slug": "k",
+    "name": "K",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "scania/k-chassis",
+    "makeId": "scania",
+    "slug": "k-chassis",
+    "name": "K-Chassis",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "scania/k112",
+    "makeId": "scania",
+    "slug": "k112",
+    "name": "K112",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k113",
+    "makeId": "scania",
+    "slug": "k113",
+    "name": "K113",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/k114",
+    "makeId": "scania",
+    "slug": "k114",
+    "name": "K114",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k124",
+    "makeId": "scania",
+    "slug": "k124",
+    "name": "K124",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/k230",
+    "makeId": "scania",
+    "slug": "k230",
+    "name": "K230",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k270",
+    "makeId": "scania",
+    "slug": "k270",
+    "name": "K270",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k280",
+    "makeId": "scania",
+    "slug": "k280",
+    "name": "K280",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k310",
+    "makeId": "scania",
+    "slug": "k310",
+    "name": "K310",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k320",
+    "makeId": "scania",
+    "slug": "k320",
+    "name": "K320",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k340",
+    "makeId": "scania",
+    "slug": "k340",
+    "name": "K340",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k360",
+    "makeId": "scania",
+    "slug": "k360",
+    "name": "K360",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k380",
+    "makeId": "scania",
+    "slug": "k380",
+    "name": "K380",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k400",
+    "makeId": "scania",
+    "slug": "k400",
+    "name": "K400",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/k410",
+    "makeId": "scania",
+    "slug": "k410",
+    "name": "K410",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k420",
+    "makeId": "scania",
+    "slug": "k420",
+    "name": "K420",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k440",
+    "makeId": "scania",
+    "slug": "k440",
+    "name": "K440",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/k450",
+    "makeId": "scania",
+    "slug": "k450",
+    "name": "K450",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/k94",
+    "makeId": "scania",
+    "slug": "k94",
+    "name": "K94",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "scania/l94",
+    "makeId": "scania",
+    "slug": "l94",
+    "name": "L94",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/omni",
+    "makeId": "scania",
+    "slug": "omni",
+    "name": "Omni",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/omniexpress",
+    "makeId": "scania",
+    "slug": "omniexpress",
+    "name": "Omniexpress",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "scania/omnilink",
+    "makeId": "scania",
+    "slug": "omnilink",
+    "name": "Omnilink",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/scala",
+    "makeId": "scania",
+    "slug": "scala",
+    "name": "Scala",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "scania/touring",
+    "makeId": "scania",
+    "slug": "touring",
+    "name": "Touring",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "scania/vest",
+    "makeId": "scania",
+    "slug": "vest",
+    "name": "Vest",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/integro",
+    "makeId": "setra",
+    "slug": "integro",
+    "name": "Integro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/k-setra",
+    "makeId": "setra",
+    "slug": "k-setra",
+    "name": "K-Setra",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s210h",
+    "makeId": "setra",
+    "slug": "s210h",
+    "name": "S210H",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s213",
+    "makeId": "setra",
+    "slug": "s213",
+    "name": "S213",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s309",
+    "makeId": "setra",
+    "slug": "s309",
+    "name": "S309",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s315",
+    "makeId": "setra",
+    "slug": "s315",
+    "name": "S315",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s315h",
+    "makeId": "setra",
+    "slug": "s315h",
+    "name": "S315H",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s317",
+    "makeId": "setra",
+    "slug": "s317",
+    "name": "S317",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s411",
+    "makeId": "setra",
+    "slug": "s411",
+    "name": "S411",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s415",
+    "makeId": "setra",
+    "slug": "s415",
+    "name": "S415",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s415h",
+    "makeId": "setra",
+    "slug": "s415h",
+    "name": "S415H",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s416",
+    "makeId": "setra",
+    "slug": "s416",
+    "name": "S416",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s417",
+    "makeId": "setra",
+    "slug": "s417",
+    "name": "S417",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s418",
+    "makeId": "setra",
+    "slug": "s418",
+    "name": "S418",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s419",
+    "makeId": "setra",
+    "slug": "s419",
+    "name": "S419",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s431",
+    "makeId": "setra",
+    "slug": "s431",
+    "name": "S431",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s431dt",
+    "makeId": "setra",
+    "slug": "s431dt",
+    "name": "S431DT",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s511",
+    "makeId": "setra",
+    "slug": "s511",
+    "name": "S511",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s515",
+    "makeId": "setra",
+    "slug": "s515",
+    "name": "S515",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s516",
+    "makeId": "setra",
+    "slug": "s516",
+    "name": "S516",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "setra/s517",
+    "makeId": "setra",
+    "slug": "s517",
+    "name": "S517",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s519",
+    "makeId": "setra",
+    "slug": "s519",
+    "name": "S519",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "setra/s531",
+    "makeId": "setra",
+    "slug": "s531",
+    "name": "S531",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "sitcar/beluga",
+    "makeId": "sitcar",
+    "slug": "beluga",
+    "name": "Beluga",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "solaris/urbino",
+    "makeId": "solaris",
+    "slug": "urbino",
+    "name": "Urbino",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "sprintcar/sprinter",
+    "makeId": "sprintcar",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "switch/metrocity",
+    "makeId": "switch",
+    "slug": "metrocity",
+    "name": "Metrocity",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "switch/solo",
+    "makeId": "switch",
+    "slug": "solo",
+    "name": "Solo",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "tekaydinlar/sprinter",
+    "makeId": "tekaydinlar",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt"
+    ]
+  },
+  {
+    "id": "temsa/hd",
+    "makeId": "temsa",
+    "slug": "hd",
+    "name": "Hd",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "temsa/md",
+    "makeId": "temsa",
+    "slug": "md",
+    "name": "Md",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "temsa/md9",
+    "makeId": "temsa",
+    "slug": "md9",
+    "name": "MD9",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "temsa/opalin",
+    "makeId": "temsa",
+    "slug": "opalin",
+    "name": "Opalin",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "temsa/prestij",
+    "makeId": "temsa",
+    "slug": "prestij",
+    "name": "Prestij",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "temsa/safari",
+    "makeId": "temsa",
+    "slug": "safari",
+    "name": "Safari",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "temsa/tourmalin",
+    "makeId": "temsa",
+    "slug": "tourmalin",
+    "name": "Tourmalin",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "toyota/coaster",
+    "makeId": "toyota",
+    "slug": "coaster",
+    "name": "Coaster",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "toyota/granvia",
+    "makeId": "toyota",
+    "slug": "granvia",
+    "name": "Granvia",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "toyota/hiace",
+    "makeId": "toyota",
+    "slug": "hiace",
+    "name": "Hiace",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "toyota/hilux",
+    "makeId": "toyota",
+    "slug": "hilux",
+    "name": "Hilux",
+    "kind": "bus",
+    "aliases": [
+      "ハイラックス"
+    ],
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 10
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "toyota/land-cruiser",
+    "makeId": "toyota",
+    "slug": "land-cruiser",
+    "name": "Land Cruiser",
+    "kind": "bus",
+    "aliases": [
+      "ランドクルーザー",
+      "Landcruiser"
+    ],
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "toyota/regius",
+    "makeId": "toyota",
+    "slug": "regius",
+    "name": "Regius",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "ugur-karoser/sprinter",
+    "makeId": "ugur-karoser",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "unvi/compa",
+    "makeId": "unvi",
+    "slug": "compa",
+    "name": "Compa",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "unvi/urbis",
+    "makeId": "unvi",
+    "slug": "urbis",
+    "name": "Urbis",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "van-hool/809",
+    "makeId": "van-hool",
+    "slug": "809",
+    "name": "809",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "van-hool/815",
+    "makeId": "van-hool",
+    "slug": "815",
+    "name": "815",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "van-hool/915",
+    "makeId": "van-hool",
+    "slug": "915",
+    "name": "915",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "van-hool/acron",
+    "makeId": "van-hool",
+    "slug": "acron",
+    "name": "Acron",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "van-hool/astron",
+    "makeId": "van-hool",
+    "slug": "astron",
+    "name": "Astron",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "van-hool/ex",
+    "makeId": "van-hool",
+    "slug": "ex",
+    "name": "EX",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "van-hool/t17",
+    "makeId": "van-hool",
+    "slug": "t17",
+    "name": "T17",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "van-hool/t915",
+    "makeId": "van-hool",
+    "slug": "t915",
+    "name": "T915",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "lu_snca",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "van-hool/t917",
+    "makeId": "van-hool",
+    "slug": "t917",
+    "name": "T917",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "van-hool/td",
+    "makeId": "van-hool",
+    "slug": "td",
+    "name": "Td",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "van-hool/tdx",
+    "makeId": "van-hool",
+    "slug": "tdx",
+    "name": "Tdx",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "van-hool/tx",
+    "makeId": "van-hool",
+    "slug": "tx",
+    "name": "TX",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vauxhall/movano",
+    "makeId": "vauxhall",
+    "slug": "movano",
+    "name": "Movano",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vdl-bova/fhd",
+    "makeId": "vdl-bova",
+    "slug": "fhd",
+    "name": "Fhd",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "vdl-bova/futura",
+    "makeId": "vdl-bova",
+    "slug": "futura",
+    "name": "Futura",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/ambassador",
+    "makeId": "vdl",
+    "slug": "ambassador",
+    "name": "Ambassador",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/citea",
+    "makeId": "vdl",
+    "slug": "citea",
+    "name": "Citea",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/fhd",
+    "makeId": "vdl",
+    "slug": "fhd",
+    "name": "Fhd",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/futura",
+    "makeId": "vdl",
+    "slug": "futura",
+    "name": "Futura",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vdl/jonckheere",
+    "makeId": "vdl",
+    "slug": "jonckheere",
+    "name": "Jonckheere",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/midcity",
+    "makeId": "vdl",
+    "slug": "midcity",
+    "name": "Midcity",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vdl/mideuro",
+    "makeId": "vdl",
+    "slug": "mideuro",
+    "name": "Mideuro",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "vdl/sb",
+    "makeId": "vdl",
+    "slug": "sb",
+    "name": "SB",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vdl/sbr",
+    "makeId": "vdl",
+    "slug": "sbr",
+    "name": "Sbr",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "vdl/synergy",
+    "makeId": "vdl",
+    "slug": "synergy",
+    "name": "Synergy",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "vdl/vutura",
+    "makeId": "vdl",
+    "slug": "vutura",
+    "name": "Vutura",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "volkswagen/caravelle",
+    "makeId": "volkswagen",
+    "slug": "caravelle",
+    "name": "Caravelle",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "volkswagen/crafter",
+    "makeId": "volkswagen",
+    "slug": "crafter",
+    "name": "Crafter",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "volkswagen/lt",
+    "makeId": "volkswagen",
+    "slug": "lt",
+    "name": "Lt",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "volvo/7700",
+    "makeId": "volvo",
+    "slug": "7700",
+    "name": "7700",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/7900",
+    "makeId": "volvo",
+    "slug": "7900",
+    "name": "7900",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "lu_snca",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/8700",
+    "makeId": "volvo",
+    "slug": "8700",
+    "name": "8700",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/8900",
+    "makeId": "volvo",
+    "slug": "8900",
+    "name": "8900",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/9500",
+    "makeId": "volvo",
+    "slug": "9500",
+    "name": "9500",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/9700",
+    "makeId": "volvo",
+    "slug": "9700",
+    "name": "9700",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/97cd",
+    "makeId": "volvo",
+    "slug": "97cd",
+    "name": "97CD",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/9900",
+    "makeId": "volvo",
+    "slug": "9900",
+    "name": "9900",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/b10",
+    "makeId": "volvo",
+    "slug": "b10",
+    "name": "B10",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/b10b",
+    "makeId": "volvo",
+    "slug": "b10b",
+    "name": "B10B",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/b10m",
+    "makeId": "volvo",
+    "slug": "b10m",
+    "name": "B10M",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b11r",
+    "makeId": "volvo",
+    "slug": "b11r",
+    "name": "B11R",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b12",
+    "makeId": "volvo",
+    "slug": "b12",
+    "name": "B12",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/b12b",
+    "makeId": "volvo",
+    "slug": "b12b",
+    "name": "B12B",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b12ble",
+    "makeId": "volvo",
+    "slug": "b12ble",
+    "name": "B12BLE",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/b12m",
+    "makeId": "volvo",
+    "slug": "b12m",
+    "name": "B12M",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b13r",
+    "makeId": "volvo",
+    "slug": "b13r",
+    "name": "B13R",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/b58",
+    "makeId": "volvo",
+    "slug": "b58",
+    "name": "B58",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b6",
+    "makeId": "volvo",
+    "slug": "b6",
+    "name": "B6",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 8
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/b6fa",
+    "makeId": "volvo",
+    "slug": "b6fa",
+    "name": "B6FA",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b7",
+    "makeId": "volvo",
+    "slug": "b7",
+    "name": "B7",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "volvo/b7l",
+    "makeId": "volvo",
+    "slug": "b7l",
+    "name": "B7L",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "volvo/b7r",
+    "makeId": "volvo",
+    "slug": "b7r",
+    "name": "B7R",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b7rle",
+    "makeId": "volvo",
+    "slug": "b7rle",
+    "name": "B7RLE",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b8r",
+    "makeId": "volvo",
+    "slug": "b8r",
+    "name": "B8R",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b9m",
+    "makeId": "volvo",
+    "slug": "b9m",
+    "name": "B9M",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "fi_traficom",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/b9r",
+    "makeId": "volvo",
+    "slug": "b9r",
+    "name": "B9R",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "volvo/be",
+    "makeId": "volvo",
+    "slug": "be",
+    "name": "Be",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "volvo/carrus",
+    "makeId": "volvo",
+    "slug": "carrus",
+    "name": "Carrus",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "warmiaki/sprinter",
+    "makeId": "warmiaki",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 6
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "wrightbus/gb-kite",
+    "makeId": "wrightbus",
+    "slug": "gb-kite",
+    "name": "Gb Kite",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "wrightbus/gemini",
+    "makeId": "wrightbus",
+    "slug": "gemini",
+    "name": "Gemini",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "wrightbus/nb",
+    "makeId": "wrightbus",
+    "slug": "nb",
+    "name": "Nb",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "wrightbus/streetdeck",
+    "makeId": "wrightbus",
+    "slug": "streetdeck",
+    "name": "Streetdeck",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "wrightbus/streetlite",
+    "makeId": "wrightbus",
+    "slug": "streetlite",
+    "name": "Streetlite",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/e10",
+    "makeId": "yutong",
+    "slug": "e10",
+    "name": "E10",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/e12",
+    "makeId": "yutong",
+    "slug": "e12",
+    "name": "E12",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/e15",
+    "makeId": "yutong",
+    "slug": "e15",
+    "name": "E15",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom"
+    ]
+  },
+  {
+    "id": "yutong/e7s",
+    "makeId": "yutong",
+    "slug": "e7s",
+    "name": "E7S",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "es_dgt",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/e9",
+    "makeId": "yutong",
+    "slug": "e9",
+    "name": "E9",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 9
+    },
+    "sources": [
+      "nz_nzta",
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/gt",
+    "makeId": "yutong",
+    "slug": "gt",
+    "name": "GT",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/gte",
+    "makeId": "yutong",
+    "slug": "gte",
+    "name": "GTE",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/ic",
+    "makeId": "yutong",
+    "slug": "ic",
+    "name": "Ic",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 7
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/tc",
+    "makeId": "yutong",
+    "slug": "tc",
+    "name": "Tc",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/u11dd",
+    "makeId": "yutong",
+    "slug": "u11dd",
+    "name": "U11DD",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "uk_dft"
+    ]
+  },
+  {
+    "id": "yutong/u12",
+    "makeId": "yutong",
+    "slug": "u12",
+    "name": "U12",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 3
+    },
+    "sources": [
+      "es_dgt",
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/u13l",
+    "makeId": "yutong",
+    "slug": "u13l",
+    "name": "U13L",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/u15",
+    "makeId": "yutong",
+    "slug": "u15",
+    "name": "U15",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/u18",
+    "makeId": "yutong",
+    "slug": "u18",
+    "name": "U18",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 2
+    },
+    "sources": [
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "yutong/yutong",
+    "makeId": "yutong",
+    "slug": "yutong",
+    "name": "Yutong",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "yutong/zk",
+    "makeId": "yutong",
+    "slug": "zk",
+    "name": "Zk",
+    "kind": "bus",
+    "regions": [
+      "eu",
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw",
+      "nz_nzta",
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "zak/sprinter",
+    "makeId": "zak",
+    "slug": "sprinter",
+    "name": "Sprinter",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "fi_traficom",
+      "nl_rdw"
+    ]
+  },
+  {
+    "id": "zaz/a08b2b-30",
+    "makeId": "zaz",
+    "slug": "a08b2b-30",
+    "name": "A08B2B-30",
+    "kind": "bus",
+    "regions": [
+      "eu"
+    ],
+    "popularity": {
+      "global_decile": 1
+    },
+    "sources": [
+      "ua_mvs"
+    ]
+  },
+  {
+    "id": "zhongtong/lck",
+    "makeId": "zhongtong",
+    "slug": "lck",
+    "name": "Lck",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 5
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  },
+  {
+    "id": "zhongtong/zhongtong",
+    "makeId": "zhongtong",
+    "slug": "zhongtong",
+    "name": "Zhongtong",
+    "kind": "bus",
+    "regions": [
+      "oc"
+    ],
+    "popularity": {
+      "global_decile": 4
+    },
+    "sources": [
+      "nz_nzta"
+    ]
+  }
+]
